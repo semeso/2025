@@ -1,23 +1,50 @@
 ---
 layout: compress
 ---
-<!doctype html>
-<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
-<head>
-	{% include _head.html %}
-</head>
-<body id="top-of-page" class="{{ layout.format }}">
-	{% unless page.skip_boilerplate %}
-	{% include _navigation.html %}
-	{% endunless %}
 
-	{% include _masthead.html %}
-	{{ content }}
+<!DOCTYPE html>
+<html
+    class="no-js"
+    lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}"
+>
+    <head>
+        {% include _head.html %}
+        <link
+            href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css"
+            rel="stylesheet"
+        />
+    </head>
+    <body id="top-of-page" class="{{ layout.format }}">
+        {% unless page.skip_boilerplate %} {% include _navigation.html %} {%
+        endunless %} {% include _masthead.html %} {{ content }} {% unless
+        page.skip_boilerplate %} {% include _footer.html %} {% endunless %} {%
+        include _footer_scripts.html %}
+        <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                const blocks = document.querySelectorAll(
+                    'article p, article h1, article h2, article h3, article ul, article li'
+                );
 
-	{% unless page.skip_boilerplate %}
-	{% include _footer.html %}
-	{% endunless %}
+                blocks.forEach((el, i) => {
+                    const tag = el.tagName.toLowerCase();
 
-	{% include _footer_scripts.html %}
-</body>
+                    // Animação diferenciada por tipo
+                    if (tag === 'h2') {
+                        el.setAttribute('data-aos', 'zoom-in');
+                        el.setAttribute('data-aos-delay', i * 50);
+                    } else {
+                        el.setAttribute('data-aos', 'fade-up');
+                        el.setAttribute('data-aos-delay', i * 50);
+                    }
+                });
+
+                // Inicializar AOS depois que todos data-aos foram adicionados
+                AOS.init({
+                    once: true,
+                    duration: 600,
+                });
+            });
+        </script>
+    </body>
 </html>

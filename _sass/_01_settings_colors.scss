@@ -26,12 +26,12 @@ $body-bg            : #fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 -------------------------------------------------------------------  */
 
-$ci-1               : #334D5C; // dark turquoise
-$ci-2               : #45B29D; // turquoise
-$ci-3               : #EFC94C; // yellow
-$ci-4               : #E27A3F; // orange
-$ci-5               : #DF4949; // red
-$ci-6               : #A1D044; // green
+$ci-1: #0F172A; // Azul petróleo profundo (background principal)
+$ci-2: #1E293B; // Azul grafite escuro (navbar, topbar)
+$ci-3: #3B82F6; // Azul elétrico vibrante (acentos e links)
+$ci-4: #94A3B8; // Cinza-azul claro (texto secundário)
+$ci-5: #6366F1; // Azul-violeta criativo (botões ativos)
+$ci-6: #7C3AED; // Roxo digital intenso (hover e destaques)
 
 
 
@@ -98,17 +98,17 @@ $topbar-link-color-active-hover: #ffffff;
 $topbar-dropdown-label-color: $ci-2;
 $topbar-dropdown-link-bg-hover: $ci-6;
 
-$topbar-link-bg-active: #a445b4; // Active Navigation Link
-$topbar-link-bg-hover: #8F3F9E;
-$topbar-link-bg-active-hover: #8F3F9E;
+$topbar-link-bg-active:       $ci-6;  // azul neon // Active Navigation Link
+$topbar-link-bg-hover:        lighten($ci-6, 10%);
+$topbar-link-bg-active-hover: adjust-hue($ci-6, -10deg);
 
 
-$topbar-dropdown-bg: #ab65b9; // Background Mobile Navigation
+$topbar-dropdown-bg:          $ci-2; // Background Mobile Navigation
 $topbar-dropdown-link-color: #ffffff;
 $topbar-dropdown-link-bg: #ffffff;
 
 $topbar-menu-link-color-toggled: #ffffff;
-$topbar-menu-icon-color-toggled: #804c8a;
+$topbar-menu-icon-color-toggled: $ci-6;
 $topbar-menu-link-color: #ffffff;
 $topbar-menu-icon-color: #000;
 $topbar-menu-link-color-toggled: #ffffff;
@@ -119,14 +119,27 @@ $topbar-menu-icon-color-toggled: #000000;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg          : $grey-8;
+$footer-bg: #0F172A;
 $footer-color       : #fff;
 $footer-link-color  : $ci-6;
+#footer a {
+  color: $footer-link-color;
+
+  &:hover {
+    color: lighten($footer-link-color, 40%);
+    text-decoration: underline;
+  }
+}
 
 
-$subfooter-bg       : $grey-13;
-$subfooter-color    : $grey-8;
-$subfooter-link-color: $grey-8;
+
+$subfooter-bg: #312E81;
+$subfooter-color: #E2E8F0;
+$subfooter-link-color: #A78BFA;
+.subfooter a:hover {
+  color: lighten($subfooter-link-color, 10%);
+  text-decoration: underline;
+}
 
 
 
