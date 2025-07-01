@@ -1,0 +1,36 @@
+- title: Início
+  url: "/"
+  side: left
+
+- title: Programação
+  url: "/programacao/"
+  side: left
+
+- title: Palestras
+  url: "/palestras/"
+  side: left
+
+- title: Minicursos
+  url: "/minicursos/"
+  side: left
+
+- title: Inscrições
+  url: "/inscricoes/"
+  side: left
+
+- title: Certificados
+  url: "/certificados/"
+  side: left
+
+
+- title: Fotos
+  url: "/fotos/"
+  side: left
+
+- title: Organização
+  url: "/organizacao/"
+  side: right
+  
+- title: "Contato"
+  url: "/contact/"
+  side: right
