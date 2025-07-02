@@ -1,0 +1,144 @@
+---
+---
+/*Arquivo .scss responsável pela estilização dos cards utilizados na seção de palestras*/
+
+.palestra-card {
+  border: 1px solid #94A3B8;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.palestra-toggle {
+  display: block;
+  width: 100%;
+  background: #7C3AED; 
+  color: white;
+  font-weight: bold;
+  padding: 1rem 3rem;
+  font-size: 1.1rem;
+  border: none;
+  border-top-left-radius: 1px;
+  border-top-right-radius: 1px;
+  text-align: center;
+  cursor: pointer;
+}
+
+
+.palestra-toggle:focus,
+.palestra-toggle:active {
+  background-color: #5e52a8;
+  outline: none;
+  box-shadow: none;
+}
+
+.palestra-toggle:hover {
+  background-color: #4643a0;
+}
+
+.palestra-content {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  padding: 0 1.5rem;
+  transition: max-height 0.5s ease, opacity 0.4s ease, padding 0.3s ease;
+}
+.palestra-content .row {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: nowrap; 
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.palestra-content .columns {
+  flex: 1 0 0;
+  max-width: 220px; 
+  text-align: center;
+}
+
+.palestra-content .img-responsive {
+  display: block;
+  margin: 0 auto;
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+}
+
+.palestra-card.active .palestra-content {
+  max-height: 1000px;
+  opacity: 1;
+  padding: 1rem 1.5rem;
+}
+.card-icon-left,
+.card-icon-right {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.8rem;
+  color: white;
+  opacity: 0.85;
+  pointer-events: none;
+  animation: pulse-icon 5.8s ease-in-out infinite;
+}
+
+.card-icon-left {
+  left: 50px;
+}
+
+.card-icon-right {
+  right: 50px;
+}
+
+.palestra-card.tema-abertura {
+  border-left: 5px solid #ff9603;
+}
+
+/*Animação leve de pulsar sobre os ícones que decoram as laterais dos cards*/
+@keyframes pulse-icon {
+  0% {
+    transform: translateY(-50%) scale(1);
+    opacity: 0.85;
+  }
+  50% {
+    transform: translateY(-50%) scale(1.2);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-50%) scale(1);
+    opacity: 0.85;
+  }
+}
+
+/*Responsividade de cards e ícones decorativos sobre telas menores*/
+@media (max-width: 768px) {
+  .palestra-content .row {
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  .palestra-content .columns {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .palestra-content .img-responsive {
+    width: 120px;
+    height: 120px;
+  }
+  .card-icon-left{ 
+  left: 15px;
+  }
+  .card-icon-right{     
+    right: 15px;
+  }
+  .card-icon-left,
+  .card-icon-right {    
+    font-size: 1.5rem;    
+  }  
+}

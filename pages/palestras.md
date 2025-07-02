@@ -1,66 +1,61 @@
 ---
 layout: page-fullwidth
-title: "Palestras"
-meta_title: "SEMESO 2024"
-subheadline: "SEMESO 2024 - 8 a 14/10 - UDESC Alto Vale"
-teaser: "XI Seminário de Engenharia de Software"
+title: 'Palestras'
+meta_title: 'SEMESO 2024'
+subheadline: 'SEMESO 2024 - 8 a 14/10 - UDESC Alto Vale'
+teaser: 'XI Seminário de Engenharia de Software'
+teaser: 'Clique nos cards abaixo para expandir o conteúdo!'
 header:
-   image_fullwidth: "banner-site.jpg"
-permalink: "/palestras/"
+    image_fullwidth: 'banner-site.jpg'
+permalink: '/palestras/'
 ---
 
+<div class="palestra-card tema-abertura">  
+  <button class="palestra-toggle">Abertura do Evento – 8/10 – 20:15
+  <i class="fa-solid fa-microphone card-icon-left"></i>
+  <i class="fa-solid fa-calendar-days card-icon-right"></i>
+  </button>  
+  <div class="palestra-content">
+    <p>Cerimônia de abertura com recepção dos alunos e palestrantes.</p>
+    <ul>
+      <li><strong>Local:</strong> Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)</li>
+      <li><strong>Anfitriões:</strong> Prof. Dr. Paolo Moser, Prof. Dr. Matheus Rothenburg, Prof. Dr. Nilson Lazarin</li>
+    </ul>
+    <div class="row">
+      <div class="medium-4 columns">
+        <img class="img-responsive" src="{{ site.urlimg }}foto-paolo-moser.jpg" alt="Marília Guterres Ferreira">
+        <p style="text-align:center">Prof. Dr. Paolo Moser</p>
+      </div>
+      <div class="medium-4 columns">
+        <img class="img-responsive" src="{{ site.urlimg }}foto-matheus-rothenburg.jpg" alt="Fernando dos Santos">
+        <p style="text-align:center">Prof. Dr. Matheus Rothenburg</p>
+      </div>
+      <div class="medium-4 columns">
+        <img class="img-responsive" src="{{ site.urlimg }}foto-nilson-lazarin.jpg" alt="Carlos Alberto Barth">
+        <p style="text-align:center">Prof. Dr. Nilson Lazarin</p>
+      </div>
+    </div>
+  </div>
+</div>
 
-<div class="row 130" id="palestra_x"></div>
+<div class="palestra-card" id="palestra_x">
+  <button class="palestra-toggle">Visita Técnica – 9/10 – 16:00 às 18:00</button>
+  <div class="palestra-content">
+    <p>A visita técnica será na empresa [Panorama Sistemas][panorama]. Endereço: Rua 25 de Julho, 111, Sala 110. Centro - Ibirama/SC.
+    A UDESC vai oferecer transporte (van) para levar os estudantes até na empresa. <strong>O transporte vai sair do CEAVI as 15:30h.</strong></p>
+    <p>Por limitações operacionais, a quantidade de vagas é limitada a <strong>VAGAS ESGOTADAS</strong>.
+      Preencha o formulário abaixo para inscrever na visita técnica. Caso a quantidade de inscritos ultrapasse a quantidade de vagas, o critério de seleção será a ordem de inscrição. Os inscritos selecionados serão comunicados até 8/10.
+      Em caso de dúvidas sobre a visita técnica, pode entrar em contato com os professores Marília ou Fernando.
+      </p>   
+    <div class="row">
+    <div class="medium-4 columns">
+    <img class="img-responsive" src="{{ site.urlimg }}logo-panorama-sistemas.png" alt="Logo da Panorama Sistemas">
+    <p style="text-align:center">Panorama Sistemas</p>
+    </div>  
+    </div>
 
-## Abertura do Evento
-
-Cerimônia de abertura com recepção dos alunos e palestrantes.
-
-##### Data:
-8/10
-
-##### Horário:
-20:15 - 20:45
-
-##### Local:
-Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
-
-##### Anfitriões
-Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
-Prof. Dr. [Fernando dos Santos][fds] (UDESC)
-Prof. Prof. Msc. [Carlos Alberto Barth][cab] (UDESC)
-
-<hr>
-
-<div class="row 130" id="palestra_v"></div>
-
-## Visita Técnica
-A visita técnica será na empresa [Panorama Sistemas][panorama]. Endereço: Rua 25 de Julho, 111, Sala 110. Centro - Ibirama/SC.
-
-A UDESC vai oferecer transporte (van) para levar os estudantes até na empresa. <strong>O transporte vai sair do CEAVI as 15:30h.</strong>
-
-Por limitações operacionais, a quantidade de vagas é limitada a <strong>VAGAS ESGOTADAS</strong>. 
-
-Preencha o formulário abaixo para inscrever na visita técnica. Caso a quantidade de inscritos ultrapasse a quantidade de vagas, o critério de seleção será a ordem de inscrição. Os inscritos selecionados serão comunicados até 8/10. 
-
-Em caso de dúvidas sobre a visita técnica, pode entrar em contato com os professores Marília ou Fernando.
-
-{% include alert alert='<strong>As vagas da Visita Técnica estão ESGOTADAS</strong>.' %}
-
-##### Data:
-9/10
-
-##### Horário:
-16:00 - 18:00
-
-##### Local:
-[Panorama Sistemas][panorama]
-
-##### Formulário de Inscrição
-Faça sua inscrição através deste formulário até dia 7/10: [https://forms.office.com/r/wzEHTnceRq][visitapanorama]
-
-<hr>
-
+      </div>
+    </div>
 
 <div class="row 130" id="palestra_a"></div>
 
@@ -69,20 +64,25 @@ Faça sua inscrição através deste formulário até dia 7/10: [https://forms.o
 Veremos como a indústria de jogos se comporta do ponto de vista de desenvolvedores, explorando suas características e particularidades e analisando seus prós e seus contras. Além disso, vou compartilhar a dinâmica salarial e projetos que experimentei ao longo da minha carreira e com o avançar da minha senioridade. Para finalizar, darei algumas orientações para quem tem interesse em ingressar na área de desenvolvimento de jogos.
 
 ### [André Luiz Cordeiro Gomes][andregomes] (Kokku)
+
 <img class="img-responsive" src="{{site.urlimg}}foto-andre-gomes.jpg"/>
 
 Tenho trabalhado na indústria de jogos por 3 anos, usando principalmente o Unreal Engine (C++) para criar jogos multiplayer. A maior parte da minha experiência está na programação de jogabilidade e integração de software de terceiros (Playfab, AWS, Azure, EOS, Steam, GPGS).
 
 ##### Data:
+
 10/10
 
 ##### Horário:
+
 19:00 - 20:15
 
 ##### Local:
+
 Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 ##### Anfitrião
+
 Prof. Dr. [Adilson Vahldick][av](UDESC)
 
 <hr>
@@ -91,9 +91,10 @@ Prof. Dr. [Adilson Vahldick][av](UDESC)
 
 ## Painel com Egressos de Engenharia de Software da UDESC
 
-Neste painel teremos um bate-papo com egressos de Engenharia de Software da UDESC sobre a carreira, oportunidades, dificuldades, e dicas para os atuais alunos. 
+Neste painel teremos um bate-papo com egressos de Engenharia de Software da UDESC sobre a carreira, oportunidades, dificuldades, e dicas para os atuais alunos.
 
 ### Painelistas
+
 <div class="row">
   <div class="medium-3 large-3 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-brenda-paetzoldt.jpg"/>
@@ -118,17 +119,20 @@ Neste painel teremos um bate-papo com egressos de Engenharia de Software da UDES
 </div>
 
 ### Mediador
+
 Prof. Dr. [Fernando dos Santos][fds] (UDESC)
 
 ##### Data:
+
 10/10
 
 ##### Horário:
+
 20:45 - 22:00
 
 ##### Local:
-Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
+Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 <hr>
 
@@ -139,20 +143,25 @@ Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 Um Sistema Multiagente (SMA) Embarcado é um sistema computacional embarcado em um dispositivo que controla e monitora o Hardware, executa ações e permite comunicação externa com outros sistemas embarcados. O desenvolvimento de um SMA Embarcado é uma tarefa árdua, pois requer conhecimento e conceitos de diferentes áreas, como eletrônica (sensores e atuadores), programação de baixo nível, programação orientada a objetos e, finalmente, programação orientada a agentes, onde o SMA é responsável pela cognição, autonomia e tomada de decisão. Nesta palestra, o processo de desenvolvimento de um SMA Embarcado será explorado mostrando a possibilidade de usar uma versão spin-off do Jason para programar agentes embarcados usando uma distribuição GNU/Linux para embutir sistemas cognitivos. O SMA desenvolvido pode gerenciar o Hardware e se comunicar usando uma rede de Internet das Coisas (IoT) para trocar mensagens e mover agentes entre sistemas. Além disso, serão mostrados os desafios da área envolvendo a Engenharia de Software de tais sistemas.
 
 ### Prof. Dr. [Carlos Eduardo Pantoja][carlospantoja] (CEFET/RJ)
+
 <img class="img-responsive" src="{{site.urlimg}}foto-carlos-pantoja.jpg"/>
 
-Eu sou professor e pesquisador do Centro Federal de Educação Tecnológica do Rio de Janeiro (CEFET/RJ), sou formado em Tecnologia de Informática pelo Centro Universitário da Cidade e bacharel em Administração Industrial pelo CEFET/RJ. Possuo mestrado em Sistemas e Computação pelo Instituto Militar de Engenharia (IME) e doutorando bolsista da CAPES em Computação pela Universidade Federal Fluminense (UFF) e doutorado sandwich pela Sorbonne Universités - Pierre et Marie Curie (UPMC) conhecida como Paris-6. Também fui Analista de Tecnologia da Informação do CEFET/RJ entre 2005 e 2009. Em concursos públicos, na área de Informática e Tecnologia, fui aprovado nas primeiras colocações para as universidades UFF, UFRJ, UNIRIO (para cargos de nível superior) e no CEFET/RJ (3x) para os cargos de técnico, analista e professor. Basicamente, atuo na área de Inteligência Artificial, mais especificamente em Sistemas Multiagentes, e Engenharia de Software, mas tenho me aventurado pelas área de Robótica, Computação Ubíqua e na Internet das Coisas ou Internet of Things (IoT). Na área de gestão, atuo na divulgação tecnológica (e atualmente mídias sociais), inovação tecnológica e empreendedorismo, além da Governança da Tecnologia da Informação e de mapeamento de processos. Idealizador do Projeto Turing. Co-coordenador da Olimpíadas Brasileira de Investimentos. 
+Eu sou professor e pesquisador do Centro Federal de Educação Tecnológica do Rio de Janeiro (CEFET/RJ), sou formado em Tecnologia de Informática pelo Centro Universitário da Cidade e bacharel em Administração Industrial pelo CEFET/RJ. Possuo mestrado em Sistemas e Computação pelo Instituto Militar de Engenharia (IME) e doutorando bolsista da CAPES em Computação pela Universidade Federal Fluminense (UFF) e doutorado sandwich pela Sorbonne Universités - Pierre et Marie Curie (UPMC) conhecida como Paris-6. Também fui Analista de Tecnologia da Informação do CEFET/RJ entre 2005 e 2009. Em concursos públicos, na área de Informática e Tecnologia, fui aprovado nas primeiras colocações para as universidades UFF, UFRJ, UNIRIO (para cargos de nível superior) e no CEFET/RJ (3x) para os cargos de técnico, analista e professor. Basicamente, atuo na área de Inteligência Artificial, mais especificamente em Sistemas Multiagentes, e Engenharia de Software, mas tenho me aventurado pelas área de Robótica, Computação Ubíqua e na Internet das Coisas ou Internet of Things (IoT). Na área de gestão, atuo na divulgação tecnológica (e atualmente mídias sociais), inovação tecnológica e empreendedorismo, além da Governança da Tecnologia da Informação e de mapeamento de processos. Idealizador do Projeto Turing. Co-coordenador da Olimpíadas Brasileira de Investimentos.
 
 ##### Data:
+
 11/10
 
 ##### Horário:
+
 19:00 - 20:15
 
 ##### Local:
+
 Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 ##### Anfitrião
+
 A definir
 
 <hr>
@@ -164,6 +173,7 @@ A definir
 Neste painel teremos um bate-papo com profissionais da indústria para discutir desafios e tendências na Engenharia de Software.
 
 ### Painelistas
+
 <div class="row">
   <div class="medium-3 large-3 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-fernanda-gums.jpg"/>
@@ -188,15 +198,19 @@ Neste painel teremos um bate-papo com profissionais da indústria para discutir 
 </div>
 
 ### Mediadora
+
 Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
 
 ##### Data:
+
 11/10
 
 ##### Horário:
+
 20:45 - 22:00
 
 ##### Local:
+
 Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 <hr>
@@ -210,15 +224,19 @@ Encontro das Valerinas para todas as meninas e mulheres, com jogos temáticos, c
 <img class="img-responsive" src="{{site.urlimg}}logo-valerinas.png" width="150"/>
 
 ##### Data:
+
 12/10
 
 ##### Horário:
+
 15h
 
 ##### Local:
+
 Bloco Imbuia (sala 105)
 
-##### Anfitriões: 
+##### Anfitriões:
+
 Acadêmica [Manoella Felippe][mf]
 
 Acadêmica [Maria Eduarda Müller Ermes][mefe]
@@ -238,15 +256,19 @@ Divulgação dos [certificados][certificados] do evento.
 Divulgação do [formulário de avaliação][formavaliacao] do evento.
 
 ##### Data:
+
 14/10
 
 ##### Horário:
+
 20:15 - 20:45
 
 ##### Local:
+
 Online, aqui no site do evento.
 
 ##### Anfitriões
+
 Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
 
 Prof. Dr. [Fernando dos Santos][fds] (UDESC)
@@ -255,9 +277,7 @@ Prof. Msc. [Carlos Alberto Barth][cab] (UDESC)
 
 Prof. Dr. [Paolo Moser][pm] (UDESC)
 
-
 <hr>
-
 
 [mgf]: http://lattes.cnpq.br/9540472751590233
 [fds]: http://lattes.cnpq.br/9532186865794326
@@ -274,6 +294,7 @@ Prof. Dr. [Paolo Moser][pm] (UDESC)
 [mefe]: https://www.linkedin.com/in/maria-eduarda-m%C3%BCller-ermes/
 [tba]: https://www.linkedin.com/in/thaiane-almeida/
 [pm]: http://lattes.cnpq.br/2530478080816147
+
 [fotos]: {{ site.url }}/fotos
 [certificados]: {{ site.url }}/certificados
 [formavaliacao]: https://forms.office.com/r/nJX5Kbf8hp

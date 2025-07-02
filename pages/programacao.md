@@ -161,67 +161,67 @@ permalink: '/programacao/'
 
 # 11/10 (sexta)
 
-##### Horário: 13:30 - 18:00
+### Horário: 13:30 - 18:00
 
-###### Minicurso: [Introdução a Sistemas Multiagente Embarcados e Distribuídos][mcj]
+### Minicurso: [Introdução a Sistemas Multiagente Embarcados e Distribuídos][mcj]
 
-###### Local: Laboratório 2
-
-<hr>
-
-##### Horário: 13:30 - 18:00
-
-###### Minicurso: [Estratégias de otimização em aplicações ReactJS][mck]
-
-###### Local: Laboratório 3
+### Local: Laboratório 2
 
 <hr>
 
-##### Horário: 15:00 - 15:20
+### Horário: 13:30 - 18:00
 
-###### Coffee-Break (exclusivo para participantes dos minicursos de sexta)
+### Minicurso: [Estratégias de otimização em aplicações ReactJS][mck]
 
-<hr>
-
-##### Horário: 19:00 - 20:15
-
-###### Palestra: [Engenharia de Sistemas Multiagentes Embarcados][plc]
-
-###### Local: Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
+### Local: Laboratório 3
 
 <hr>
 
-##### Horário: 20:15 - 20:45
+### Horário: 15:00 - 15:20
 
-###### Coffee-Break
+### Coffee-Break (exclusivo para participantes dos minicursos de sexta)
 
 <hr>
 
-##### Horário: 20:45 - 22:00
+### Horário: 19:00 - 20:15
 
-###### Painel: [Desafios e Tendências na Indústria de Software][pld]
+### Palestra: [Engenharia de Sistemas Multiagentes Embarcados][plc]
 
-###### Local: Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
+### Local: Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
+
+<hr>
+
+### Horário: 20:15 - 20:45
+
+### Coffee-Break
+
+<hr>
+
+### Horário: 20:45 - 22:00
+
+### Painel: [Desafios e Tendências na Indústria de Software][pld]
+
+### Local: Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 <hr>
 
 # 12/10 (sábado)
 
-##### Horário: 15h
+### Horário: 15h
 
-###### Encontro: [II Encontro das Valerinas (Meninas Digitais da UDESC Alto Vale)][md]
+### Encontro: [II Encontro das Valerinas (Meninas Digitais da UDESC Alto Vale)][md]
 
-###### Local: Bloco Imbuia (sala 105)
+### Local: Bloco Imbuia (sala 105)
 
 <hr>
 
 # 14/10 (segunda)
 
-##### Horário: 20:15 - 20:45
+### Horário: 20:15 - 20:45
 
-###### [Encerramento do evento][plz]
+### [Encerramento do evento][plz]
 
-###### Local: Online (site do evento)
+### Local: Online (site do evento)
 
 <hr>
 
