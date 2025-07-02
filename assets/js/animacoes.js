@@ -28,9 +28,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
 /*Animação de sanfona que atua sobre os cards, ao serem clicados*/
 document.addEventListener('DOMContentLoaded', () => {
-    document.querySelectorAll('.palestra-toggle').forEach((btn) => {
+    document.querySelectorAll('.card-toggle').forEach((btn) => {
         btn.addEventListener('click', () => {
-            const card = btn.closest('.palestra-card');
+            const card = btn.closest('.card');
             card.classList.toggle('active');
         });
     });
