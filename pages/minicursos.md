@@ -9,7 +9,9 @@ header:
 permalink: '/minicursos/'
 ---
 
-{% include _minicursos.html %}
+{% for minicurso in site.minicursos %}
+{% include _minicurso.html minicurso=minicurso %}
+{% endfor %}
 
 [mhf]: http://lattes.cnpq.br/2665316828133413
 [nicolasdeb]: https://www.linkedin.com/in/nicolas-debacher-306642263

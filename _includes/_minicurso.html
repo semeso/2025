@@ -1,0 +1,45 @@
+<!-- Arquivo que define a estrutura específica a ser seguida pelos cards de minicurso -->
+
+<div class="card tema-{{ minicurso.tema }}" id="{{ minicurso.id }}">
+    <button class="card-toggle">
+        <i class="{{ minicurso.icone_esq }} card-icon-left"></i>
+        <div class="toggle-text">
+            <div class="toggle-title">{{ minicurso.title }}</div>
+            <div class="toggle-subtitle">{{ minicurso.horario }}</div>
+        </div>
+        <i class="{{ minicurso.icone_dir }} card-icon-right"></i>
+    </button>
+    <div class="card-content">
+        <p>{{ minicurso.descricao }}</p>
+
+        {% include alert alert=minicurso.requisitos %}
+
+        <ul>
+            <li><strong>Vagas:</strong> {{ minicurso.vagas }}</li>
+            <li><strong>Local:</strong> {{ minicurso.local }}</li>
+            <li><strong>Coordenador:</strong> {{ minicurso.coordenador }}</li>
+        </ul>
+
+        <div class="ministrante-box">
+            <img
+                src="{{ site.urlimg }}{{ minicurso.ministrante.foto }}"
+                alt="{{ minicurso.ministrante.nome }}"
+                style="border-radius: 50%; max-width: 160px; flex-shrink: 0"
+                class="img-responsive"
+            />
+            <div style="flex: 1; min-width: 250px">
+                <p style="margin-bottom: 0.5rem; font-weight: bold">
+                    Ministrante:
+                </p>
+                <p style="margin: 0">
+                    <a href="{{ minicurso.ministrante.link }}"
+                        >{{ minicurso.ministrante.nome }}</a
+                    >
+                </p>
+                <p style="margin-top: 0.75rem; line-height: 1.6">
+                    {{ minicurso.ministrante.bio }}
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
