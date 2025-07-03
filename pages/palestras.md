@@ -10,7 +10,9 @@ header:
 permalink: '/palestras/'
 ---
 
-{% include _palestras.html %}
+{% for palestra in site.palestras %}
+{% include _palestra.html palestra=palestra %}
+{% endfor %}
 
 [mgf]: http://lattes.cnpq.br/9540472751590233
 [fds]: http://lattes.cnpq.br/9532186865794326
