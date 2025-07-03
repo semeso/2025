@@ -10,7 +10,7 @@
         <i class="{{ palestra.icone_dir }} card-icon-right"></i>
     </button>
     <div class="card-content">
-        <p>{{ palestra.descricao }}</p>
+        <p>{{ palestra.descricao | resolve_link | markdownify }}</p>
 
         <div class="row">
             {% for p in palestra.palestrantes %}
@@ -21,7 +21,7 @@
                     alt="{{ p.nome }}"
                 />
                 <p>
-                    <a href="{{ p.link }}">{{ p.nome }}</a><br />
+                    <a href="{{ p.link | resolve_link }}">{{ p.nome }}</a>
                     {{ p.cargo }}
                 </p>
             </div>

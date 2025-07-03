@@ -8,14 +8,23 @@ horario: '14/10 – 20:15 às 20:45'
 date: 2025-10-14 20:15:00
 descricao: >
     Divulgação das [fotos](#fotos), [certificados](#certificados) e [formulário de avaliação](#formavaliacao) do evento.
-local: 'Online, aqui no site do evento.'
-anfitrioes:
-    - nome: 'Profª. Dra. Marília Guterres Ferreira'
-      link: '#mgf'
-    - nome: 'Prof. Dr. Fernando dos Santos'
-      link: '#fds'
-    - nome: 'Prof. Msc. Carlos Alberto Barth'
-      link: '#cab'
+palestrantes:
     - nome: 'Prof. Dr. Paolo Moser'
       link: '#pm'
+      cargo: ''
+      foto: 'foto-paolo-moser.jpg'
+    - nome: 'Prof. Dr. Matheus Rothenburg'
+      link: '#matheusrothenburg'
+      cargo: ''
+      foto: 'foto-matheus-rothenburg.jpg'
+    - nome: 'Prof. Dr. Nilson Lazarin'
+      link: '#nilsonlazarin'
+      cargo: ''
+      foto: 'foto-nilson-lazarin.jpg'
+    - nome: 'Prof. Dr. Nilson Lazarin'
+      link: '#nilsonlazarin'
+      cargo: ''
+      foto: 'foto-nilson-lazarin.jpg'
+local: 'Online, aqui no site do evento.'
+mediador: 'Profª. Dra. Marília Guterres Ferreira, Prof. Dr. Fernando dos Santos, Prof. Msc. Carlos Alberto Barth, Prof. Dr. Paolo Moser'
 ---

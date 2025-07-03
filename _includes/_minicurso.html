@@ -10,7 +10,7 @@
         <i class="{{ minicurso.icone_dir }} card-icon-right"></i>
     </button>
     <div class="card-content">
-        <p>{{ minicurso.descricao }}</p>
+        <p>{{ minicurso.descricao | resolve_link | markdownify }}</p>
 
         {% include alert alert=minicurso.requisitos %}
 
@@ -32,7 +32,7 @@
                     Ministrante:
                 </p>
                 <p style="margin: 0">
-                    <a href="{{ minicurso.ministrante.link }}"
+                    <a href="{{ minicurso.ministrante.link | resolve_link }}"
                         >{{ minicurso.ministrante.nome }}</a
                     >
                 </p>

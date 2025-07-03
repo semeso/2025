@@ -15,7 +15,7 @@ local: 'Laboratório 2'
 coordenador: 'A definir'
 ministrante:
     nome: 'Paolo Moser'
-    link: '#myllenamiranda'
+    link: '#pm'
     bio: 'Professor de matemática e estatística na Universidade do Estado de Santa Catarina (UDESC).'
     foto: 'foto-paolo-moser.jpg'
 ---

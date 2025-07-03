@@ -10,7 +10,7 @@ descricao: >
     Veremos como a indústria de jogos se comporta do ponto de vista de desenvolvedores, explorando suas características e particularidades e analisando seus prós e contras. Além disso, vou compartilhar a dinâmica salarial e projetos que experimentei ao longo da minha carreira e com o avançar da minha senioridade. Para finalizar, darei algumas orientações para quem tem interesse em ingressar na área de desenvolvimento de jogos.
 palestrantes:
     - nome: 'André Luiz Cordeiro Gomes (Kokku)'
-      link: ''
+      link: '#andregomes'
       cargo: ''
       foto: 'foto-andre-gomes.jpg'
 local: 'Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)'

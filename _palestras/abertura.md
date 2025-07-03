@@ -10,15 +10,15 @@ descricao: >
     Cerimônia de abertura com recepção dos alunos e palestrantes.
 palestrantes:
     - nome: 'Prof. Dr. Paolo Moser'
-      link: ''
+      link: '#pm'
       cargo: ''
       foto: 'foto-paolo-moser.jpg'
     - nome: 'Prof. Dr. Matheus Rothenburg'
-      link: ''
+      link: '#matheusrothenburg'
       cargo: ''
       foto: 'foto-matheus-rothenburg.jpg'
     - nome: 'Prof. Dr. Nilson Lazarin'
-      link: ''
+      link: '#nilsonlazarin'
       cargo: ''
       foto: 'foto-nilson-lazarin.jpg'
 local: 'Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)'

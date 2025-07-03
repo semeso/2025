@@ -13,9 +13,9 @@ descricao: >
 
 palestrantes:
     - nome: 'Panorama Sistemas'
-      link: ''
+      link: '#panorama'
       cargo: ''
       foto: 'logo-panorama-sistemas.png'
 local: 'Panorama Sistemas – Rua 25 de Julho, 111, Sala 110, Centro - Ibirama/SC'
-mediador: ''
+mediador: 'Professora Marília e Professor Fernando'
 ---

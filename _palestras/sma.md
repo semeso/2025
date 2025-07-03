@@ -10,7 +10,7 @@ descricao: >
     Palestra sobre o desenvolvimento de Sistemas Multiagentes Embarcados com desafios envolvendo eletrônica, programação de baixo nível e sistemas cognitivos, com destaque para o uso de spin-off do Jason sobre GNU/Linux e integração IoT.
 palestrantes:
     - nome: 'Prof. Dr. Carlos Eduardo Pantoja (CEFET/RJ)'
-      link: ''
+      link: '#carlospantoja'
       cargo: ''
       foto: 'foto-carlos-pantoja.jpg'
 local: 'Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)'
