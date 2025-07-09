@@ -1,6 +1,6 @@
 ---
 title: 'C# para programadores Java'
-id: 'minicurso_h'
+id: 'minicurso_csharp'
 tema: 'csharp'
 icone_esq: 'fa-solid fa-code'
 icone_dir: 'fa-brands fa-windows'

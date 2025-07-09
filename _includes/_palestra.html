@@ -1,6 +1,6 @@
 <!-- Arquivo que define a estrutura específica a ser seguida pelos cards de palestra -->
 
-<div class="card tema-{{ palestra.tema }}" id="{{ palestra.id }}">
+<div class="card tema-{{ palestra.tema }}" id="{{ palestra.id | slugify }}">
     <button class="card-toggle">
         <i class="{{ palestra.icone_esq }} card-icon-left"></i>
         <div class="toggle-text">

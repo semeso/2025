@@ -1,6 +1,6 @@
 ---
 title: 'Oficina de Robótica'
-id: 'minicurso_c'
+id: 'minicurso_robotica'
 tema: 'robotica'
 icone_esq: 'fa-solid fa-robot'
 icone_dir: 'fa-solid fa-microchip'

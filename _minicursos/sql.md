@@ -1,6 +1,6 @@
 ---
 title: 'Full Text Search com PostgreSQL'
-id: 'minicurso_d'
+id: 'minicurso_sql'
 tema: 'sql'
 icone_esq: 'fa-solid fa-database'
 icone_dir: 'fa-solid fa-search'

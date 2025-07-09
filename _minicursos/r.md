@@ -1,6 +1,6 @@
 ---
 title: 'Data Science com R'
-id: 'minicurso_a'
+id: 'minicurso_r'
 tema: 'r'
 icone_esq: 'fa-solid fa-chart-line'
 icone_dir: 'fa-solid fa-flask'

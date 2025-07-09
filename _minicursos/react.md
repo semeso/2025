@@ -1,6 +1,6 @@
 ---
 title: 'React: plataforma de receitas'
-id: 'minicurso_b'
+id: 'minicurso_react'
 tema: 'react'
 icone_esq: 'fa-brands fa-react'
 icone_dir: 'fa-solid fa-utensils'

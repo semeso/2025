@@ -1,6 +1,6 @@
 <!-- Arquivo que define a estrutura específica a ser seguida pelos cards de minicurso -->
 
-<div class="card tema-{{ minicurso.tema }}" id="{{ minicurso.id }}">
+<div class="card tema-{{ minicurso.tema }}" id="{{ minicurso.id | slugify }}">
     <button class="card-toggle">
         <i class="{{ minicurso.icone_esq }} card-icon-left"></i>
         <div class="toggle-text">

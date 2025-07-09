@@ -1,6 +1,6 @@
 ---
 title: 'Sistemas Multiagentes Embarcados'
-id: 'palestra_c'
+id: 'palestra_sma'
 tema: 'sma'
 icone_esq: 'fa-solid fa-microchip'
 icone_dir: 'fa-solid fa-code-compare'

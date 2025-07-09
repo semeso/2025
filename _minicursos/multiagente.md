@@ -1,6 +1,6 @@
 ---
 title: 'Sistemas Multiagentes'
-id: 'minicurso_j'
+id: 'minicurso_multiagente'
 tema: 'multiagente'
 icone_esq: 'fa-solid fa-network-wired'
 icone_dir: 'fa-solid fa-robot'

@@ -1,6 +1,6 @@
 ---
 title: 'Otimização em ReactJS'
-id: 'minicurso_k'
+id: 'minicurso_otimizacao'
 tema: 'otimizacao'
 icone_esq: 'fa-brands fa-react'
 icone_dir: 'fa-solid fa-gauge-high'

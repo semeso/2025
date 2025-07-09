@@ -1,6 +1,6 @@
 ---
 title: 'Integração de Dados na Nuvem'
-id: 'minicurso_l'
+id: 'minicurso_nuvem'
 tema: 'nuvem'
 icone_esq: 'fa-solid fa-cloud'
 icone_dir: 'fa-solid fa-diagram-project'

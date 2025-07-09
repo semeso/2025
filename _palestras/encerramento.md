@@ -1,6 +1,6 @@
 ---
 title: 'Encerramento do Evento'
-id: 'palestra_z'
+id: 'palestra_encerramento'
 tema: 'encerramento'
 icone_esq: 'fa-solid fa-flag-checkered'
 icone_dir: 'fa-solid fa-calendar-days'

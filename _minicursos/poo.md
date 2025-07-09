@@ -1,6 +1,6 @@
 ---
 title: 'POO em Java'
-id: 'minicurso_e'
+id: 'minicurso_poo'
 tema: 'poo'
 icone_esq: 'fa-solid fa-cubes'
 icone_dir: 'fa-brands fa-java'

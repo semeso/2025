@@ -1,6 +1,6 @@
 ---
 title: 'Processos de Software'
-id: 'minicurso_m'
+id: 'minicurso_processos'
 tema: 'processos'
 icone_esq: 'fa-solid fa-diagram-predecessor'
 icone_dir: 'fa-solid fa-code-compare'

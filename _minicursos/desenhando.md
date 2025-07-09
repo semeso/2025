@@ -1,6 +1,6 @@
 ---
 title: 'Desenhando um app do zero'
-id: 'minicurso_i'
+id: 'minicurso_desenhando'
 tema: 'desenhando'
 icone_esq: 'fa-solid fa-pencil-ruler'
 icone_dir: 'fa-brands fa-figma'

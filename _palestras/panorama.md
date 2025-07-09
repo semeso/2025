@@ -1,6 +1,6 @@
 ---
 title: 'Visita Técnica'
-id: 'palestra_x'
+id: 'palestra_panorama'
 tema: 'panorama'
 icone_esq: 'fa-solid fa-computer'
 icone_dir: 'fa-solid fa-door-open'

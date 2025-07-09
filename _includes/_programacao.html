@@ -1,0 +1,26 @@
+<div class="card tema-programacao" id="{{ dia.id }}">
+    <button class="card-toggle">
+        <i class="fa-solid fa-calendar-day card-icon-left"></i>
+        <div class="toggle-text">
+            <div class="toggle-title">{{ dia.title }}</div>
+        </div>
+        <i class="fa-solid fa-chevron-down card-icon-right"></i>
+    </button>
+    <div class="card-content">
+        {% for item in dia.itens %}
+        <div class="program-item">
+            <p><strong>Horário:</strong> {{ item.horario }}</p>
+            <p>
+                <strong>{{ item.tipo | capitalize }}:</strong>
+                {% if item.link %}
+                <a href="{{ item.link | resolve_link }}">{{ item.titulo }}</a>
+                {% else %} {{ item.titulo }} {% endif %}
+            </p>
+            {% if item.local %}
+            <p><strong>Local:</strong> {{ item.local }}</p>
+            {% endif %}
+            <hr />
+        </div>
+        {% endfor %}
+    </div>
+</div>

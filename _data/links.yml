@@ -36,3 +36,29 @@ labot: https://www.udesc.br/ceavi/acoes-de-extensao/atuais/labot # Página do La
 fotos: '/2025/fotos' # Galeria de fotos
 certificados: '/2025/certificados' # Página de certificados
 formavaliacao: https://forms.office.com/r/nJX5Kbf8hp # Formulário de avaliação do evento
+
+# Links da programação - Palestras
+palestra_abertura: /palestras/#palestras-abertura
+palestra_encerramento: /palestras/#palestras-encerramento
+palestra_industria: /palestras/#palestras-industria
+palestra_industriadejogos: /palestras/#palestras-industriadejogos
+palestra_egressos: /palestras/#palestras-egressos
+palestra_sma: /palestras/#palestras-sma
+palestra_valerinas: /palestras/#palestras-valerinas
+palestra_panorama: /palestras/#palestras-panorama
+
+# Links da programação - Minicursos
+minicurso_r: /minicursos/#minicursos-r
+minicurso_react: /minicursos/#minicursos-react
+minicurso_robotica: /minicursos/#minicursos-robotica
+minicurso_sql: /minicursos/#minicursos-sql
+minicurso_poo: /minicursos/#minicursos-poo
+minicurso_git: /minicursos/#minicursos-git
+minicurso_aws: /minicursos/#minicursos-aws
+minicurso_nuvem: /minicursos/#minicursos-nuvem
+minicurso_processos: /minicursos/#minicursos-processos
+minicurso_r: /minicursos/#minicursos-r
+minicurso_csharp: /minicursos/#minicursos-csharp
+minicurso_desenhando: /minicursos/#minicursos-desenhando
+minicurso_multiagente: /minicursos/#minicursos-multiagente
+minicurso_otimizacao: /minicursos/#minicursos-otimizacao

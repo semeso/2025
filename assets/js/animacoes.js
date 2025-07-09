@@ -35,3 +35,25 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+
+document.addEventListener('DOMContentLoaded', function () {
+    const hash = window.location.hash;
+    if (hash) {
+        const target = document.querySelector(hash);
+        if (target && target.classList.contains('card')) {
+            target.classList.add('active');
+            setTimeout(() => {
+                const yOffset = -150;
+                const y =
+                    target.getBoundingClientRect().top +
+                    window.pageYOffset +
+                    yOffset;
+
+                window.scrollTo({
+                    top: y,
+                    behavior: 'smooth',
+                });
+            }, 600);
+        }
+    }
+});

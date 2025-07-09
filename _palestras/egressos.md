@@ -1,6 +1,6 @@
 ---
 title: 'Painel com Egressos'
-id: 'palestra_b'
+id: 'palestra_egressos'
 tema: 'egressos'
 icone_esq: 'fa-solid fa-users'
 icone_dir: 'fa-solid fa-handshake'

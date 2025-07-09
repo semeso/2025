@@ -1,6 +1,6 @@
 ---
 title: 'Além do git add .'
-id: 'minicurso_f'
+id: 'minicurso_git'
 tema: 'git'
 icone_esq: 'fa-brands fa-git-alt'
 icone_dir: 'fa-solid fa-code-branch'

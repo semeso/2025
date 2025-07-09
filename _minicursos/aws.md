@@ -1,6 +1,6 @@
 ---
 title: 'Deploy na AWS'
-id: 'minicurso_g'
+id: 'minicurso_aws'
 tema: 'aws'
 icone_esq: 'fa-solid fa-cloud-arrow-up'
 icone_dir: 'fa-brands fa-aws'

@@ -1,6 +1,6 @@
 ---
 title: 'Painel: Indústria de Software'
-id: 'palestra_d'
+id: 'palestra_industria'
 tema: 'industria'
 icone_esq: 'fa-solid fa-briefcase'
 icone_dir: 'fa-solid fa-compass'

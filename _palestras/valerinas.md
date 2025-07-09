@@ -1,6 +1,6 @@
 ---
 title: 'II Encontro das Valerinas'
-id: 'meninas_digitais'
+id: 'palestra_valerinas'
 tema: 'valerinas'
 icone_esq: 'fa-solid fa-mug-hot'
 icone_dir: 'fa-solid fa-venus'

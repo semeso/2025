@@ -1,6 +1,6 @@
 ---
 title: 'Indústria de Jogos'
-id: 'palestra_a'
+id: 'palestra_industriadejogos'
 tema: 'industriadejogos'
 icone_esq: 'fa-solid fa-gamepad'
 icone_dir: 'fa-solid fa-puzzle-piece'
