@@ -3,14 +3,14 @@
 # Use the widgets beneath and the content will be
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
-# 
+#
 # O layout frontpage faz o ultimo arquivo de _posts aparecer na pagina inicial
 #
 layout: page-fullwidth
-title: "SEMESO 2024"
-teaser: "XI Seminário de Engenharia de Software."
+title: 'SEMESO 2024'
+teaser: 'XI Seminário de Engenharia de Software.'
 header:
-   image_fullwidth: "banner-site.jpg"
+    image_fullwidth: 'logo-panorama-sistemas.png'
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -20,5 +20,3 @@ homepage: true
 ---
 
 {% include semeso.md %}
-
-

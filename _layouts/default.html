@@ -19,10 +19,50 @@ layout: compress
         />
         <link
             rel="stylesheet"
+            href="{{ '/assets/css/decor.css' | relative_url }}"
+        />
+        <link
+            rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
         />
     </head>
     <body id="top-of-page" class="{{ layout.format }}">
+        <!-- Ondas laterais -->
+        <div class="wave-vertical wave-left">
+            <svg viewBox="0 0 100 1000" preserveAspectRatio="none">
+                <defs>
+                    <linearGradient
+                        id="grad-vertical"
+                        x1="0%"
+                        y1="0%"
+                        x2="0%"
+                        y2="100%"
+                    >
+                        <stop
+                            offset="0%"
+                            style="stop-color: #7b3ff2; stop-opacity: 0.45"
+                        />
+                        <stop
+                            offset="100%"
+                            style="stop-color: #ffa94d; stop-opacity: 0.45"
+                        />
+                    </linearGradient>
+                </defs>
+                <path
+                    d="M50,0 C75,250 25,500 50,750 C75,1000 25,1000 50,1000 L100,1000 L100,0 Z"
+                    fill="url(#grad-vertical)"
+                />
+            </svg>
+        </div>
+
+        <div class="wave-vertical wave-right">
+            <svg viewBox="0 0 100 1000" preserveAspectRatio="none">
+                <path
+                    d="M50,0 C75,250 25,500 50,750 C75,1000 25,1000 50,1000 L100,1000 L100,0 Z"
+                    fill="url(#grad-vertical)"
+                />
+            </svg>
+        </div>
         {% unless page.skip_boilerplate %} {% include _navigation.html %} {%
         endunless %} {% include _masthead.html %} {{ content }} {% unless
         page.skip_boilerplate %} {% include _footer.html %} {% endunless %} {%

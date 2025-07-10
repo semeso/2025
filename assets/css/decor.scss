@@ -1,0 +1,45 @@
+---
+---
+/*Arquivo .scss responsável pela estilização das animações que tocam nas laterais das telas*/
+.wave-vertical {
+  position: fixed;
+  top: 0;
+  height: 130vh; 
+  width: 100px;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.wave-left {
+  left: 0;
+  transform: scaleX(-1);
+  transform-origin: center;
+}
+
+.wave-right {
+  right: 0;
+}
+
+.wave-vertical svg {
+  width: 100%;
+  height: 100%;
+  animation: wavePulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+.wave-left svg {
+  animation-delay: 0s;
+}
+
+.wave-right svg {
+  animation-delay: 1.5s;
+}
+
+@keyframes wavePulse {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-60px); 
+  }
+}
