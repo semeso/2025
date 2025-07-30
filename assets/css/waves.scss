@@ -1,6 +1,6 @@
 ---
 ---
-/*Arquivo .scss responsável pela estilização das animações que tocam nas laterais das telas*/
+/*Arquivo .scss responsável pela animação das ondas que tocam nas laterais das telas. O SVG foi definido em default.html*/
 .wave-vertical {
   position: fixed;
   top: 0;
@@ -41,5 +41,10 @@
   }
   50% {
     transform: translateY(-60px); 
+  }
+}
+@media (max-width: 768px) {
+  .wave-vertical {
+    display: none;
   }
 }

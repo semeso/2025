@@ -26,25 +26,12 @@ $body-bg            : #fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 -------------------------------------------------------------------  */
 
-$ci-1: #0F172A; // Azul petróleo profundo (background principal)
-$ci-2: #1E293B; // Azul grafite escuro (navbar, topbar)
+$ci-1: #270857; // Azul petróleo profundo (background principal)
+$ci-2: #1F0039; // Variação mais clara para menus
 $ci-3: #3B82F6; // Azul elétrico vibrante (acentos e links)
 $ci-4: #94A3B8; // Cinza-azul claro (texto secundário)
-$ci-5: #6366F1; // Azul-violeta criativo (botões ativos)
-$ci-6: #7C3AED; // Roxo digital intenso (hover e destaques)
-
-
-
-/* Trying an alternative color scheme based on
-   https://color.adobe.com/pt/color%20theme_September%20Neutrals%20Procreate%20Color%20Palette%20_%20Ipad%20Procreate%20Swatches%20_%20Instant%20Download%20_%20Fall%20Colors%20_%20Autumn%20Colors%20_%20Warm%20Tones-color-theme-18178501/
-------------------------------------------------------------------- 
-
-$ci-1               : #2A3340; // dark turquoise / botoes, caixas de texto
-$ci-2               : #BF8C6F; // turquoise / opcoes do menu exibidas desktop
-$ci-3               : #B4B4AA; // yellow
-$ci-4               : #5F6D73; // orange
-$ci-5               : #A6654E; // red 
-$ci-6               : #D9CBBF; // green / opcoes do menu selecionado (desktop) ou exibidas (mobile)
+$ci-5: #b912f6; // Azul-violeta criativo (botões ativos)
+$ci-6: #FF922B; // Roxo digital intenso (hover e destaques)
 
 
 /* Foundation Color Variables
@@ -98,12 +85,12 @@ $topbar-link-color-active-hover: #ffffff;
 $topbar-dropdown-label-color: $ci-2;
 $topbar-dropdown-link-bg-hover: $ci-6;
 
-$topbar-link-bg-active:       $ci-6;  // azul neon // Active Navigation Link
+$topbar-link-bg-active:       $ci-6;  // Active Navigation Link
 $topbar-link-bg-hover:        lighten($ci-6, 10%);
 $topbar-link-bg-active-hover: adjust-hue($ci-6, -10deg);
 
 
-$topbar-dropdown-bg:          $ci-2; // Background Mobile Navigation
+$topbar-dropdown-bg:          $ci-6; // Background Mobile Navigation
 $topbar-dropdown-link-color: #ffffff;
 $topbar-dropdown-link-bg: #ffffff;
 
@@ -119,7 +106,7 @@ $topbar-menu-icon-color-toggled: #000000;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg: #0F172A;
+$footer-bg: $ci-2;
 $footer-color       : #fff;
 $footer-link-color  : $ci-6;
 #footer a {
@@ -131,11 +118,9 @@ $footer-link-color  : $ci-6;
   }
 }
 
-
-
-$subfooter-bg: #312E81;
-$subfooter-color: #E2E8F0;
-$subfooter-link-color: #A78BFA;
+$subfooter-bg: $ci-1;
+$subfooter-color: $ci-6;
+$subfooter-link-color: $ci-5;
 .subfooter a:hover {
   color: lighten($subfooter-link-color, 10%);
   text-decoration: underline;

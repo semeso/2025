@@ -5,7 +5,7 @@ meta_title: 'SEMESO 2025'
 subheadline: 'SEMESO 2025 - 14 a 16/09 - UDESC Alto Vale'
 teaser: 'Clique nos cards abaixo para expandir o conteúdo dos nossos minicursos!'
 header:
-    image_fullwidth: 'banner-site.jpg'
+    image_fullwidth: 'banner-semeso-25.png'
 permalink: '/minicursos/'
 ---
 

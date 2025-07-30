@@ -3,7 +3,7 @@
 /*Arquivo .scss responsável pela estilização dos cards utilizados nas seções de palestras, minicursos e programação*/
 
 .card {
-  border: 1px solid #94A3B8;
+  border: 1px solid 	#FF922B;
   border-radius: 6px;
   margin-bottom: 1rem;
   background: #fff;
@@ -19,7 +19,7 @@
 .card-toggle {
   display: block;
   width: 100%;
-  background: #7C3AED; 
+  background: #ec6200; 
   color: white;
   font-weight: bold;
   padding: 1rem 3rem;
@@ -62,13 +62,13 @@
 
 .card-toggle:focus,
 .card-toggle:active {
-  background-color: #5e52a8;
+  background-color: #4b0783;
   outline: none;
   box-shadow: none;
 }
 
 .card-toggle:hover {
-  background-color: #4643a0;
+  background-color: 	#46026f;
 }
 
 .card-content {
@@ -128,29 +128,29 @@
 }
 
 /*PALESTRAS -> Temas*/
-.card.tema-abertura         {border-left: 5px solid #ff9603;}
-.card.tema-panorama         {border-left: 5px solid #0379ff;}
-.card.tema-industriadejogos {border-left: 5px solid #9c27b0;}
-.card.tema-egressos         {border-left: 5px solid #00bfa6;}
-.card.tema-sma              {border-left: 5px solid #4caf50;}
-.card.tema-industria        {border-left: 5px solid #3f51b5;}
-.card.tema-valerinas        {border-left: 5px solid #ec407a;}
-.card.tema-encerramento     {border-left: 5px solid #ff9603;}
+.card.tema-abertura         { border-left: 5px solid #AC43ED; }
+.card.tema-panorama         { border-left: 5px solid #3B82F6; }
+.card.tema-industriadejogos { border-left: 5px solid #1F0039; }
+.card.tema-egressos         { border-left: 5px solid #00B894; }
+.card.tema-sma              { border-left: 5px solid #6366F1; }
+.card.tema-industria        { border-left: 5px solid #270857; }
+.card.tema-valerinas        { border-left: 5px solid #EC4899; }
+.card.tema-encerramento     { border-left: 5px solid #AC43ED; }
 
 /*MINICURSOS -> Temas*/
-.card.tema-r             { border-left: 5px solid #276DC3; } 
-.card.tema-react         { border-left: 5px solid #61DAFB; } 
-.card.tema-robotica      { border-left: 5px solid #bdde00; } 
-.card.tema-sql           { border-left: 5px solid #008ca8; } 
-.card.tema-poo           { border-left: 5px solid #a836f4; } 
-.card.tema-git           { border-left: 5px solid #f1502f; } 
-.card.tema-aws           { border-left: 5px solid #ff9900; } 
-.card.tema-nuvem         { border-left: 5px solid #00acc1; } 
-.card.tema-processos     { border-left: 5px solid #3f51b5; } 
-.card.tema-csharp        { border-left: 5px solid #9c27b0; } 
-.card.tema-desenhando    { border-left: 5px solid #e91e63; } 
-.card.tema-multiagente   { border-left: 5px solid #4caf50; } 
-.card.tema-otimizacao    { border-left: 5px solid #009688; } 
+.card.tema-r             { border-left: 5px solid #7C3AED; } 
+.card.tema-react         { border-left: 5px solid #3B82F6; } 
+.card.tema-robotica      { border-left: 5px solid #6D28D9; } 
+.card.tema-sql           { border-left: 5px solid #0F172A; } 
+.card.tema-poo           { border-left: 5px solid #AC43ED; } 
+.card.tema-git           { border-left: 5px solid #ff00c8; } 
+.card.tema-aws           { border-left: 5px solid #2b4eff; } 
+.card.tema-nuvem         { border-left: 5px solid #6366F1; } 
+.card.tema-processos     { border-left: 5px solid #1F0039; } 
+.card.tema-csharp        { border-left: 5px solid #8B5CF6; } 
+.card.tema-desenhando    { border-left: 5px solid #EC4899; } 
+.card.tema-multiagente   { border-left: 5px solid #00B894; } 
+.card.tema-otimizacao    { border-left: 5px solid #22D3EE; } 
 
 /*Animação leve de pulsar sobre os ícones que decoram as laterais dos cards*/
 @keyframes pulse-icon {

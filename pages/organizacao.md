@@ -1,12 +1,12 @@
 ---
 layout: page-fullwidth
-title: "Organização"
-meta_title: "SEMESO 2024"
-subheadline: "SEMESO 2024 - 8 a 14/10 - UDESC Alto Vale"
-teaser: "XI Seminário de Engenharia de Software"
+title: 'Organização'
+meta_title: 'SEMESO 2024'
+subheadline: 'SEMESO 2024 - 8 a 14/10 - UDESC Alto Vale'
+teaser: 'XI Seminário de Engenharia de Software'
 header:
-   image_fullwidth: "banner-site.jpg"
-permalink: "/organizacao/"
+    image_fullwidth: 'banner-semeso-25.png'
+permalink: '/organizacao/'
 ---
 
 ## Coordenação Geral
@@ -48,8 +48,6 @@ Acadêmica [Thaiane Bento de Almeida][tba]
 Acadêmica [Manoella Felippe][mf]
 
 Acadêmica [Maria Eduarda Müller Ermes][mefe]
-
-
 
 [fds]: http://lattes.cnpq.br/9532186865794326
 [mhf]: http://lattes.cnpq.br/2665316828133413
