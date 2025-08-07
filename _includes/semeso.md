@@ -17,4 +17,4 @@ O SEMESO é o principal evento da área de Engenharia de Software na região do 
 A crescente demanda por soluções digitais em diversos campos da sociedade torna a Engenharia de Software uma área estratégica para o desenvolvimento regional e nacional. Diante do déficit de profissionais qualificados no setor de tecnologia no Brasil, o SEMESO representa uma oportunidade única para formação, atualização e qualificação de novos profissionais, contribuindo para o avanço da economia local e para a promoção do conhecimento científico e tecnológico.
 
 [ceavi]: https://www.ceavi.udesc.br
-[sepex]: https://www.udesc.br/ceavi/sepex/2023
+[sepex]: https://www.udesc.br/ceavi/sepex

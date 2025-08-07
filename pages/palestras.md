@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: 'Palestras'
 meta_title: 'SEMESO 2025'
-subheadline: 'SEMESO 2025 - 14 a 16/09 - UDESC Alto Vale'
+subheadline: 'SEMESO 2025 - 16 a 18/09 - UDESC Alto Vale'
 teaser: 'XII Seminário de Engenharia de Software'
 teaser: 'Clique nos cards abaixo para expandir o conteúdo das nossas palestras!'
 header:

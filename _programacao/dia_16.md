@@ -1,8 +1,8 @@
 ---
-title: '8/10 (terça)'
-id: 'dia_08'
+title: '16/09 (terça)'
+id: 'dia_16'
 itens:
-    - horario: '20:15 - 20:45'
+    - horario: 'A definir'
       titulo: 'Abertura do evento'
       tipo: 'atividade'
       link: '#palestra_abertura'

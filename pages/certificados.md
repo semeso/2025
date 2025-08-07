@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
 title: 'Certificados'
-meta_title: 'SEMESO 2024'
-subheadline: 'SEMESO 2024 - 8 a 14/10 - UDESC Alto Vale'
-teaser: 'XI Seminário de Engenharia de Software'
+meta_title: 'SEMESO 2025'
+subheadline: 'SEMESO 2025 - 14 a 16/09 - UDESC Alto Vale'
+teaser: 'XII Seminário de Engenharia de Software'
 header:
     image_fullwidth: 'banner-semeso-25.png'
 permalink: '/certificados/'
@@ -11,7 +11,7 @@ permalink: '/certificados/'
 
 Serão emitidos certificados eletrônicos para os **participantes** de palestras e minicursos, e também para os **ministrantes** das palestras e minicursos.
 
-Responsável pela emissão dos certificados: Prof. Dr. [Paolo Moser][pm].
+Responsável pela emissão dos certificados: a definir.
 
 **Atenção** para os critérios de emissão de certificados, descritos mais abaixo.
 
@@ -25,7 +25,7 @@ O participante que **NÃO possui vínculo** com a UDESC, deve seguir o passo a p
 
 ### Palestras
 
-Foi emitido um certificado de **participação no SEMESO 2024** para o participante que **registrou presença** nas **palestras** do evento.
+Foi emitido um certificado de **participação no SEMESO 2025** para o participante que **registrou presença** nas **palestras** do evento.
 
 A presença foi registrada através da assinatura do participante em listas de frequência, que foram circuladas em cada palestra.
 
@@ -41,11 +41,4 @@ O participante inscrito que **não compareceu** ao minicurso, além de não rece
 
 Os certificados dos minicursos podem ser utilizados para validar atividades complementares.
 
-### Visita Técnica
-
-Foi emitido um certificado para o estudante que participou da visita técnica.
-
-O certificado da visita técnica pode ser utilizados para validar atividades complementares.
-
-[pm]: http://lattes.cnpq.br/2530478080816147
 [certificados]: https://certificados.sistemas.udesc.br/Certificados/MeusCertificados/index?opcao=listar
