@@ -38,7 +38,7 @@ certificados: '/certificados' # Página de certificados
 formavaliacao: https://forms.office.com/r/nJX5Kbf8hp # Formulário de avaliação do evento
 
 # Links da programação - Palestras
-palestra_abertura: /palestras/#palestras-abertura
+palestra_abertura: /2025/palestras/#palestras-abertura
 palestra_encerramento: /palestras/#palestras-encerramento
 palestra_industria: /palestras/#palestras-industria
 palestra_industriadejogos: /palestras/#palestras-industriadejogos
