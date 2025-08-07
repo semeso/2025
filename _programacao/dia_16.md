@@ -5,6 +5,6 @@ itens:
     - horario: 'A definir'
       titulo: 'Abertura do evento'
       tipo: 'atividade'
-      link: '#palestra_abertura'
+      link: '{{ site.baseurl }}/palestras/#palestras-abertura'
       local: 'Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)'
 ---
