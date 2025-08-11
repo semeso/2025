@@ -15,6 +15,12 @@ Prof. Dr. [Fernando dos Santos][fds]
 
 Profª. MSc. [Carlos Alberto Barth][cab]
 
+## Coordenação de Palestras
+
+Acadêmico [Anderson Krüger][anderson_kruger]
+
+Acadêmica [Shaiene Pereira][shaiene_pereira]
+
 ## Coordenação de Minicursos
 
 Acadêmico [Lucas Rodrigues][lucas_rodrigues]
@@ -22,10 +28,23 @@ Acadêmico [Lucas Rodrigues][lucas_rodrigues]
 ## Coordenação de Infraestrutura
 
 Prof. Msc. [Carlos Alberto Barth][cab]
+Acadêmica [Shaiene Pereira][shaiene_pereira]
 
-## Coordenação de Certificados
+## Coordenação de Infraestrutura
 
-A definir
+Prof. Msc. [Carlos Alberto Barth][cab]
+
+Acadêmica [Shaiene Pereira][shaiene_pereira]
+
+## Coordenação de Marketing
+
+Acadêmico [Gabriel Schattenberg Küter][gabriel_kuter]
+
+Acadêmica [Shaiene Pereira][shaiene_pereira]
+
+## Coordenação Financeira
+
+Acadêmico [Anderson Krüger][anderson_kruger]
 
 ## Equipe Organizadora
 

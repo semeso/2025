@@ -10,7 +10,7 @@ descricao: >
     Cerimônia de abertura com recepção dos alunos e palestrantes.
 palestrantes:
     - nome: 'A definir'
-      link: '#ceavi'
+      link: ''
       cargo: ''
       foto: 'person.png'
     - nome: 'A definir'

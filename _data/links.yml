@@ -1,33 +1,4 @@
-# Lattes dos palestrantes
-mgf: http://lattes.cnpq.br/9540472751590233 # Marília Guterres Ferreira
-fds: http://lattes.cnpq.br/9532186865794326 # Fernando dos Santos
-mhf: http://lattes.cnpq.br/2665316828133413 # Maria H. Ferreira
-carlospantoja: http://lattes.cnpq.br/4343654212657424 # Carlos Pantoja
-nilsonlazarin: http://lattes.cnpq.br/4304954704049203 # Nilson Lazarin
-av: http://lattes.cnpq.br/3827444548540732 # André Vicente
-cab: http://lattes.cnpq.br/4906389456471521 # Carlos Alberto Barth
-pm: http://lattes.cnpq.br/2530478080816147 # Paolo Moser
-
-# LinkedIn dos palestrantes e convidados
-andregomes: https://www.linkedin.com/in/andr%C3%A9luizcordeirogomes/ # André Luiz C. Gomes
-brendapaetzoldt: https://www.linkedin.com/in/brenda-paetzoldt/ # Brenda Paetzoldt
-mf: https://www.linkedin.com/in/manoella-felippe-558046269/ # Manoella Felippe
-mefe: https://www.linkedin.com/in/maria-eduarda-m%C3%BCller-ermes/ # Maria Eduarda Müller Ermes
-tba: https://www.linkedin.com/in/thaiane-almeida/ # Thaiane Almeida
-nicolasdeb: https://www.linkedin.com/in/nicolas-debacher-306642263 # Nicolas Debacher
-myllenamiranda: https://www.linkedin.com/in/myllena-m-8923121b1 # Myllena Miranda
-douglasmartins: https://www.linkedin.com/in/souzadouglasmartins # Douglas Martins
-eloisabazzanela: https://www.linkedin.com/in/elo%C3%ADsa-bazzanella-60464317b/ # Eloísa Bazzanela
-matheusrothenburg: https://www.linkedin.com/in/matheus-oliver-r/ # Matheus Oliver R.
-lucasnogueira: https://www.linkedin.com/in/lucas-nogueira-695145241 # Lucas Nogueira
-brunoespindola: https://www.linkedin.com/in/bruno-esp%C3%ADndola-37536a1a8/ # Bruno Espíndola
-danieldallabeneta: https://www.linkedin.com/in/daniel-dallabeneta-08862079/ # Daniel Dallabeneta
-mateusbrandt: https://www.linkedin.com/in/mateusbrandt/ # Mateus Brandt
-guilhermelange: https://www.linkedin.com/in/guilhermelange/ # Guilherme Lange
-rafaelabrantes: https://www.linkedin.com/in/rabrante/ # Rafaela Abrantes
-diegodidimo: https://www.linkedin.com/in/diego-didimo-lemos-de-oliveira-76974839/ # Diego Dídimo
-
-# Outros links relevantes
+# Links relevantes
 ceavi: http://www.ceavi.udesc.br # Site do CEAVI
 panorama: https://www.panoramasistemas.com.br # Empresa Panorama
 valerinas: https://meninas.sbc.org.br/projetos-parceiros/valerinas/ # Site das Valerinas
@@ -35,30 +6,3 @@ visitapanorama: https://forms.office.com/r/wzEHTnceRq # Formulário de visita à
 labot: https://www.udesc.br/ceavi/acoes-de-extensao/atuais/labot # Página do Labot
 fotos: '/fotos' # Galeria de fotos
 certificados: '/certificados' # Página de certificados
-formavaliacao: https://forms.office.com/r/nJX5Kbf8hp # Formulário de avaliação do evento
-
-# Links da programação - Palestras
-palestra_abertura: /2025/palestras/#palestras-abertura
-palestra_encerramento: /palestras/#palestras-encerramento
-palestra_industria: /palestras/#palestras-industria
-palestra_industriadejogos: /palestras/#palestras-industriadejogos
-palestra_egressos: /palestras/#palestras-egressos
-palestra_sma: /palestras/#palestras-sma
-palestra_valerinas: /palestras/#palestras-valerinas
-palestra_panorama: /palestras/#palestras-panorama
-
-# Links da programação - Minicursos
-minicurso_r: /minicursos/#minicursos-r
-minicurso_react: /minicursos/#minicursos-react
-minicurso_robotica: /minicursos/#minicursos-robotica
-minicurso_sql: /minicursos/#minicursos-sql
-minicurso_poo: /minicursos/#minicursos-poo
-minicurso_git: /minicursos/#minicursos-git
-minicurso_aws: /minicursos/#minicursos-aws
-minicurso_nuvem: /minicursos/#minicursos-nuvem
-minicurso_processos: /minicursos/#minicursos-processos
-minicurso_r: /minicursos/#minicursos-r
-minicurso_csharp: /minicursos/#minicursos-csharp
-minicurso_desenhando: /minicursos/#minicursos-desenhando
-minicurso_multiagente: /minicursos/#minicursos-multiagente
-minicurso_otimizacao: /minicursos/#minicursos-otimizacao
