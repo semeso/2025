@@ -62,7 +62,7 @@
 
 #diamante h2 {
   animation: emphasize 0.6s ease-out forwards;
-  color: #7c3aed; /* lilás claro que combina com o roxo do gradiente */
+  color: #7c3aed; 
   font-weight: 700;
 }
 
@@ -81,9 +81,17 @@
 }
 
 
-@media (max-width: 768px) {
-  #diamante .columns img,
-  #Platina .columns img,
+@media (max-width: 768px) {  
+  #diamante .columns img {
+    max-height: 140px;
+  }
+  #Platina .columns img{
+    max-height: 80px;
+  }
+  /* PontoGov menor no mobile */
+  #Platina img[alt="Logo da PontoGov Sistemas"] {
+    max-height: 60px;
+  }
   #prata .columns img {
     max-height: 80px;
   }
