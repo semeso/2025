@@ -4,7 +4,7 @@ id: 'engenharia_software'
 tema: 'engenharia_software'
 icone_esq: 'fa-solid fa-briefcase'
 icone_dir: 'fa-solid fa-user-tie'
-horario: '19:00 até 20:30'
+horario: ' 17/09 - 19:00 até 20:30'
 date: 2025-09-17 19:00
 descricao: |
     Nesta palestra, Cleber Nardelli compartilha sua jornada profissional desde o início da informatização empresarial até o cenário atual da 4ª revolução da indústria de software.
