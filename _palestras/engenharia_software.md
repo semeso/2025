@@ -4,8 +4,8 @@ id: 'engenharia_software'
 tema: 'engenharia_software'
 icone_esq: 'fa-solid fa-briefcase'
 icone_dir: 'fa-solid fa-user-tie'
-horario: 'A definir'
-date: 2025-10-10 20:45
+horario: '19:00 até 20:30'
+date: 2025-09-17 19:00
 descricao: |
     Nesta palestra, Cleber Nardelli compartilha sua jornada profissional desde o início da informatização empresarial até o cenário atual da 4ª revolução da indústria de software.
     Unindo experiências práticas e lições aprendidas, ele traça um paralelo entre sua trajetória e os grandes marcos tecnológicos que moldaram o setor:
@@ -29,5 +29,5 @@ palestrantes:
       foto: 'cleber_nardelli.jpeg'
 
 mediador: 'A definir'
-local: 'A definir'
+local: 'Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)'
 ---
