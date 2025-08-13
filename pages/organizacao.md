@@ -76,7 +76,7 @@ permalink: '/organizacao/'
 <div class="org-grid">
   <div class="org-card is-lead">
     <div class="org-avatar">
-      <img src="/assets/images/fernando_santos.jpg" alt="Fernando dos Santos">
+      <img src="{{ '/images/fernando_santos.jpg' | relative_url }}" alt="Fernando dos Santos">
     </div>
     <div class="org-name">Prof. Dr. Fernando dos Santos</div>
     <div class="org-role">Coordenador</div>
@@ -87,7 +87,7 @@ permalink: '/organizacao/'
 
   <div class="org-card is-lead">
     <div class="org-avatar">
-      <img src="/assets/images/carlos_barth.jpg" alt="Carlos Alberto Barth">
+      <img src="{{ '/images/carlos_barth.jpg'   | relative_url }}" alt="Carlos Alberto Barth">
     </div>
     <div class="org-name">Prof. MSc. Carlos Alberto Barth</div>
     <div class="org-role">Coordenador</div>
@@ -101,7 +101,7 @@ permalink: '/organizacao/'
 <div class="org-grid">
   <div class="org-card">
     <div class="org-avatar">
-      <img src="/assets/images/anderson_kruger.jpg" alt="Anderson Krüger">
+      <img src="{{ '/images/anderson_kruger.jpg'| relative_url }}" alt="Anderson Krüger">
     </div>
     <div class="org-name">Anderson F. Krüger</div>
     <div class="org-role">Coordenação de Palestras</div>
@@ -112,7 +112,7 @@ permalink: '/organizacao/'
 
   <div class="org-card">
     <div class="org-avatar">
-      <img src="/assets/images/shaiene_pereira.jpg" alt="Shaiene Pereira">
+      <img src="{{ '/images/shaiene_pereira.jpg'| relative_url }}" alt="Shaiene Pereira">
     </div>
     <div class="org-name">Shaiene Pereira</div>
     <div class="org-role">Coordenação de Palestras</div>
@@ -126,7 +126,7 @@ permalink: '/organizacao/'
 <div class="org-grid">
   <div class="org-card">
     <div class="org-avatar">
-      <img src="/assets/images/lucas_rodrigues.jpg" alt="Lucas Rodrigues">
+      <img src="{{ '/images/lucas_rodrigues.jpg'| relative_url }}" alt="Lucas Rodrigues">
     </div>
     <div class="org-name">Lucas Rodrigues</div>
     <div class="org-role">Coordenação de Minicursos</div>
@@ -140,7 +140,7 @@ permalink: '/organizacao/'
 <div class="org-grid">
   <div class="org-card">
     <div class="org-avatar">
-      <img src="/assets/images/gabriel_kuter.png" alt="Gabriel Schattenberg Küter">
+      <img src="{{ '/images/gabriel_kuter.png'  | relative_url }}" alt="Gabriel Schattenberg Küter">
     </div>
     <div class="org-name">Gabriel Schattenberg Küter</div>
     <div class="org-role">Coordenação de Marketing</div>
@@ -151,7 +151,7 @@ permalink: '/organizacao/'
 
   <div class="org-card">
     <div class="org-avatar">
-      <img src="/assets/images/shaiene_pereira.jpg" alt="Shaiene Pereira">
+      <img src="{{ '/images/shaiene_pereira.jpg'| relative_url }}" alt="Shaiene Pereira">
     </div>
     <div class="org-name">Shaiene Pereira</div>
     <div class="org-role">Coordenação de Marketing</div>
