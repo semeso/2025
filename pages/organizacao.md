@@ -9,56 +9,61 @@ header:
 permalink: '/organizacao/'
 ---
 
-## Coordenação Geral
+<style>
+:root{
+  --accent-purple:#7c3aed; 
+  --accent-orange:#f59e0b; 
+}
 
-Prof. Dr. [Fernando dos Santos][fds]
+.org-grid{
+  display:grid;
+  grid-template-columns: repeat( auto-fit, minmax(220px,1fr) );
+  gap:28px;
+  margin:24px 0 40px;
+}
+.org-card{
+  text-align:center;
+  padding:16px 12px;
+  border-radius:16px;
+  background: #fff;
+  border: 2px solid var(--accent-purple);
+  box-shadow:0 2px 10px rgba(0,0,0,.05);
+  transition:transform .2s ease, box-shadow .2s ease;
+}
+.org-card:hover{ transform: translateY(-2px); box-shadow:0 6px 18px rgba(0,0,0,.08); }
 
-Profª. MSc. [Carlos Alberto Barth][cab]
+.org-avatar{
+  width:132px; height:132px;
+  margin:0 auto 12px;
+  border-radius:999px;
+  overflow:hidden;
+  position:relative;
+  padding:3px; 
+  background:linear-gradient(135deg,var(--accent-purple),var(--accent-orange));
+}
+.org-avatar img{
+  width:100%; height:100%; object-fit:cover; border-radius:999px; background:#f5f5f7;
+}
 
-## Coordenação de Palestras
+.org-name{ font-weight:700; line-height:1.2; margin:4px 0; }
+.org-role{ font-size:.95rem; color:#6b7280; margin-bottom:10px; }
 
-Acadêmico [Anderson Krüger][anderson_kruger]
+.org-links{
+  display:flex; justify-content:center; gap:10px; flex-wrap:wrap;
+}
+.org-link{
+  display:inline-block; font-size:.9rem; padding:6px 10px;
+  border-radius:999px; text-decoration:none;
+  border:1px solid #e5e7eb; color:#374151; background:#fff;
+  transition:background .2s ease, border-color .2s ease;
+}
+.org-link:hover{ background:#f9fafb; border-color:#d1d5db; }
 
-Acadêmica [Shaiene Pereira][shaiene_pereira]
+.org-card.is-lead .org-avatar{ padding:4px; }
+.org-card.is-lead .org-name{ font-size:1.1rem; }
 
-## Coordenação de Minicursos
-
-Acadêmico [Lucas Rodrigues][lucas_rodrigues]
-
-## Coordenação de Infraestrutura
-
-Prof. Msc. [Carlos Alberto Barth][cab]
-Acadêmica [Shaiene Pereira][shaiene_pereira]
-
-## Coordenação de Infraestrutura
-
-Prof. Msc. [Carlos Alberto Barth][cab]
-
-Acadêmica [Shaiene Pereira][shaiene_pereira]
-
-## Coordenação de Marketing
-
-Acadêmico [Gabriel Schattenberg Küter][gabriel_kuter]
-
-Acadêmica [Shaiene Pereira][shaiene_pereira]
-
-## Coordenação Financeira
-
-Acadêmico [Anderson Krüger][anderson_kruger]
-
-## Equipe Organizadora
-
-Prof. Dr. [Fernando dos Santos][fds]
-
-Prof. MSc. [Carlos Alberto Barth][cab]
-
-Acadêmico [Anderson Krüger][anderson_kruger]
-
-Acadêmico [Gabriel Schattenberg Küter][gabriel_kuter]
-
-Acadêmico [Lucas Rodrigues][lucas_rodrigues]
-
-Acadêmica [Shaiene Pereira][shaiene_pereira]
+.org-section{ margin:40px 0 16px; }
+</style>
 
 [fds]: http://lattes.cnpq.br/9532186865794326
 [cab]: http://lattes.cnpq.br/4906389456471521
@@ -66,3 +71,94 @@ Acadêmica [Shaiene Pereira][shaiene_pereira]
 [anderson_kruger]: https://www.linkedin.com/in/fkruger-anderson/
 [gabriel_kuter]: https://www.linkedin.com/in/gabriel-k%C3%BCter/?originalSubdomain=br
 [shaiene_pereira]: https://www.linkedin.com/in/shaiene-pereira-183965203/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=br
+
+<h2 class="org-section">Coordenação Geral</h2>
+<div class="org-grid">
+  <div class="org-card is-lead">
+    <div class="org-avatar">
+      <img src="/assets/images/fernando_santos.jpg" alt="Fernando dos Santos">
+    </div>
+    <div class="org-name">Prof. Dr. Fernando dos Santos</div>
+    <div class="org-role">Coordenador</div>
+    <div class="org-links">
+      <a class="org-link" href="http://lattes.cnpq.br/9532186865794326" target="_blank">Lattes</a>      
+    </div>
+  </div>
+
+  <div class="org-card is-lead">
+    <div class="org-avatar">
+      <img src="/assets/images/carlos_barth.jpg" alt="Carlos Alberto Barth">
+    </div>
+    <div class="org-name">Prof. MSc. Carlos Alberto Barth</div>
+    <div class="org-role">Coordenador</div>
+    <div class="org-links">
+      <a class="org-link" href="http://lattes.cnpq.br/4906389456471521" target="_blank">Lattes</a>      
+    </div>
+  </div>
+</div>
+
+<h2 class="org-section">Coordenação de Palestras</h2>
+<div class="org-grid">
+  <div class="org-card">
+    <div class="org-avatar">
+      <img src="/assets/images/anderson_kruger.jpg" alt="Anderson Krüger">
+    </div>
+    <div class="org-name">Anderson F. Krüger</div>
+    <div class="org-role">Coordenação de Palestras</div>
+    <div class="org-links">
+      <a class="org-link" href="https://www.linkedin.com/in/fkruger-anderson/" target="_blank">LinkedIn</a>
+    </div>
+  </div>
+
+  <div class="org-card">
+    <div class="org-avatar">
+      <img src="/assets/images/shaiene_pereira.jpg" alt="Shaiene Pereira">
+    </div>
+    <div class="org-name">Shaiene Pereira</div>
+    <div class="org-role">Coordenação de Palestras</div>
+    <div class="org-links">
+      <a class="org-link" href="https://www.linkedin.com/in/shaiene-pereira-183965203/" target="_blank">LinkedIn</a>
+    </div>
+  </div>
+</div>
+
+<h2 class="org-section">Coordenação de Minicursos</h2>
+<div class="org-grid">
+  <div class="org-card">
+    <div class="org-avatar">
+      <img src="/assets/images/lucas_rodrigues.jpg" alt="Lucas Rodrigues">
+    </div>
+    <div class="org-name">Lucas Rodrigues</div>
+    <div class="org-role">Coordenação de Minicursos</div>
+    <div class="org-links">
+      <a class="org-link" href="https://www.linkedin.com/in/lrodrigues21/" target="_blank">LinkedIn</a>
+    </div>
+  </div>
+</div>
+
+<h2 class="org-section">Coordenação de Marketing</h2>
+<div class="org-grid">
+  <div class="org-card">
+    <div class="org-avatar">
+      <img src="/assets/images/gabriel_kuter.png" alt="Gabriel Schattenberg Küter">
+    </div>
+    <div class="org-name">Gabriel Schattenberg Küter</div>
+    <div class="org-role">Coordenação de Marketing</div>
+    <div class="org-links">
+      <a class="org-link" href="https://www.linkedin.com/in/gabriel-k%C3%BCter/?originalSubdomain=br" target="_blank">LinkedIn</a>
+    </div>
+  </div>
+
+  <div class="org-card">
+    <div class="org-avatar">
+      <img src="/assets/images/shaiene_pereira.jpg" alt="Shaiene Pereira">
+    </div>
+    <div class="org-name">Shaiene Pereira</div>
+    <div class="org-role">Coordenação de Marketing</div>
+    <div class="org-links">
+      <a class="org-link" href="https://www.linkedin.com/in/shaiene-pereira-183965203/" target="_blank">LinkedIn</a>
+    </div>
+  </div>
+</div>
+<div class="org-grid">
+</div>
