@@ -19,7 +19,7 @@ palestrantes:
     - nome: 'Ana Luiza Mees'
       link: 'https://www.linkedin.com/in/anamees/?locale=pt_BR'
       cargo: 'Head de Inteligência Artificial na IPM Sistemas'
-      foto: 'ana_mees.jpeg'
+      foto: 'ana_mees.jpg'
 
 mediador: 'A definir'
 local: 'Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)'

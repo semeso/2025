@@ -74,21 +74,71 @@ permalink: '/organizacao/'
 .role-badge.dev { border-color:#06b6d4; background:#ecfeff; color:#164e63; }
 
 /* links */
-.org-links{ display:flex; justify-content:center; gap:10px; flex-wrap:wrap; }
-.org-link{
-  display:inline-block; font-size:.9rem; padding:6px 10px;
-  border-radius:999px; text-decoration:none;
-  border:1px solid #e5e7eb; color:#374151; background:#fff;
-  transition:background .2s ease, border-color .2s ease;
+.org-links {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
 }
-.org-link:hover{ background:#f9fafb; border-color:#d1d5db; }
+.org-link {
+  display: inline-block;
+  font-size: .9rem;
+  padding: 6px 14px;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 600;
+  color: #fff;
+  transition: transform .2s ease, box-shadow .2s ease, background-color .3s ease;
+}
 
-/* destaque (coordenadores gerais) — mantém seu estilo */
+.org-link.lattes { background-color: #7c3aed; } 
+.org-link.linkedin { background-color: #0a66c2; } 
+
+
+.org-link:hover {
+  transform: scale(1.08);
+  box-shadow: 0 4px 14px rgba(41, 41, 41, 0.25);
+}
+
 .org-card.is-lead .org-avatar{ padding:4px; }
 .org-card.is-lead .org-name{ font-size:1.05rem; }
 
-/* título de seção enxuto */
 .org-section{ margin:40px 0 16px; }
+
+/* estado base */
+.org-links .org-link,
+.org-links .org-link:link,
+.org-links .org-link:visited {
+  color: #fff !important;
+  border: none !important;
+  text-decoration: none !important;
+  box-shadow: none !important;
+}
+
+/* hover e clique */
+.org-links .org-link:hover,
+.org-links .org-link:active {
+  color: #fff !important;
+  border: none !important;
+  text-decoration: none !important;
+  box-shadow: none !important;
+  filter: brightness(0.95); /* escurece um pouco o fundo */
+}
+
+/* foco via teclado */
+.org-links .org-link:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}
+
+/* personalização por rede no hover */
+.org-links .org-link.lattes:hover {
+  background-color: #6a2ed6; 
+}
+
+.org-links .org-link.linkedin:hover {
+  background-color: #0a5aad; 
+}
 </style>
 
 [fds]: http://lattes.cnpq.br/9532186865794326
@@ -113,7 +163,7 @@ permalink: '/organizacao/'
       <!-- adicione mais funções se necessário -->
     </div>
     <div class="org-links">
-      <a class="org-link" href="http://lattes.cnpq.br/9532186865794326" target="_blank">Lattes</a>
+      <a class="org-link lattes" href="http://lattes.cnpq.br/9532186865794326" target="_blank">Lattes</a>
     </div>
   </div>
   <!-- Carlos -->
@@ -128,7 +178,7 @@ permalink: '/organizacao/'
       <span class="role-badge ops">Coordenação de Infraestrutura</span>
     </div>
     <div class="org-links">
-      <a class="org-link" href="http://lattes.cnpq.br/4906389456471521" target="_blank">Lattes</a>
+      <a class="org-link lattes" href="http://lattes.cnpq.br/4906389456471521" target="_blank">Lattes</a>
     </div>
   </div>
   <!-- Anderson -->
@@ -143,7 +193,7 @@ permalink: '/organizacao/'
       <span class="role-badge finance">Coordenação Financeira</span>
     </div>
     <div class="org-links">
-      <a class="org-link" href="https://www.linkedin.com/in/fkruger-anderson/" target="_blank">LinkedIn</a>
+      <a class="org-link linkedin" href="https://www.linkedin.com/in/fkruger-anderson/" target="_blank">LinkedIn</a>
     </div>
 
   </div>
@@ -161,7 +211,7 @@ permalink: '/organizacao/'
       <span class="role-badge marketing">Coordenação de Marketing</span>
     </div>
     <div class="org-links">
-      <a class="org-link" href="https://www.linkedin.com/in/shaiene-pereira-183965203/" target="_blank">LinkedIn</a>
+      <a class="org-link linkedin" href="https://www.linkedin.com/in/shaiene-pereira-183965203/" target="_blank">LinkedIn</a>
     </div>
 
   </div>
@@ -177,7 +227,7 @@ permalink: '/organizacao/'
       <span class="role-badge courses">Coordenação de Minicursos</span>
     </div>
     <div class="org-links">
-      <a class="org-link" href="https://www.linkedin.com/in/lrodrigues21/" target="_blank">LinkedIn</a>
+      <a class="org-link linkedin" href="https://www.linkedin.com/in/lrodrigues21/" target="_blank">LinkedIn</a>
     </div>
   </div>
 
@@ -194,7 +244,7 @@ permalink: '/organizacao/'
       <span class="role-badge dev">Desenvolvimento Web</span>
     </div>
     <div class="org-links">
-      <a class="org-link" href="https://www.linkedin.com/in/gabriel-k%C3%BCter/?originalSubdomain=br" target="_blank">LinkedIn</a>
+      <a class="org-link linkedin" href="https://www.linkedin.com/in/gabriel-k%C3%BCter/?originalSubdomain=br" target="_blank">LinkedIn</a>
     </div>
   </div>
 </div>

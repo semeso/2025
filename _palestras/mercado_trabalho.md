@@ -26,6 +26,6 @@ palestrantes:
       link: '#ceavi'
       cargo: 'Cargo a definir'
       foto: 'person.png'
-mediador: 'Prof. Dr. <a href="#fds">Fernando dos Santos</a> (UDESC)'
+mediador: 'A definir'
 local: 'A definir'
 ---
