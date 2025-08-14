@@ -15,7 +15,7 @@ descricao: |
     3. A revolução da Web e da conectividade global.
     4. A ascensão dos softwares agênticos e interfaces assistivas.
 
-     **Sobre o palestrante**
+     **Sobre o palestrante -**
 
     Cleber Nardelli é profissional com quase 30 anos de experiência na indústria de software, atuando em empresas de diferentes portes e setores, desde startups até grandes corporações.  
     Combina vivência prática no mercado com experiência acadêmica de 19 anos como professor universitário, orientando novos talentos em desenvolvimento de software, arquitetura de sistemas e inovação tecnológica.  
