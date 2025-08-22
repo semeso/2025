@@ -52,14 +52,6 @@
   transform: scale(1.08); 
 }
 
-/* Animações das categorias de patrocínio */
-@keyframes emphasize {
-  0% { opacity: 0; transform: scale(0.95) translateY(8px); }
-  60% { opacity: 1; transform: scale(1.05) translateY(0); }
-  100% { transform: scale(1); }
-}
-
-
 #diamante h2 {
   animation: emphasize 0.6s ease-out forwards;
   color: #7c3aed; 
@@ -73,13 +65,14 @@
   font-weight: 600;
 }
 
-
 #prata h2 {
   animation: emphasize 0.5s ease-out forwards;
   color: #f59e0b; 
   font-weight: 600;
 }
-
+#prata img[alt="Logo da Effecti"] {
+  max-height: 160px; 
+}
 
 @media (max-width: 768px) {  
   #diamante .columns img {
@@ -91,6 +84,9 @@
   #Platina img[alt="Logo da PontoGov Sistemas"] {
     max-height: 60px;
   }
+  #prata img[alt="Logo da Effecti"] {
+  max-height: 120px !important; 
+}
   #prata .columns img {
     max-height: 80px;
   }
@@ -114,7 +110,7 @@
 </div>
 
 <div id="Platina" class="row" data-aos="fade-right">
-  <h2>Parceiro Platina</h2>
+  <h2>Parceiros Platina</h2>
   <div class="small-12 columns">
     <a href="https://www.panoramasistemas.com.br/">
       <img src="{{ site.urlimg }}logo_panorama.png" alt="Logo da Panorama Sistemas">
@@ -126,7 +122,7 @@
 </div>
 
 <div id="prata" class="row" data-aos="fade-left">
-  <h2>Parceiro Prata</h2>
+  <h2>Parceiros Prata</h2>
   <div class="small-12 columns">
     <a href="https://www.nxfacil.com.br/">
       <img src="{{ site.urlimg }}logo_NxFacil.png" alt="Logo da NxFácil">

@@ -14,20 +14,20 @@
   url: '/minicursos/'
   side: left
 
+- title: Hackathon
+  url: '/hackathon/'
+  side: left
+
+- title: Gamificação
+  url: '/gamificacao/'
+  side: left
+
 - title: Inscrições
   url: '/inscricoes/'
   side: left
 
 - title: Certificados
   url: '/certificados/'
-  side: left
-
-- title: Hackathon
-  url: '/hackathon/'
-  side: left
-
-- title: SIC
-  url: '/sic/'
   side: left
 
 - title: Fotos
