@@ -1,36 +1,43 @@
 - title: Início
-  url: "/"
+  url: '/'
   side: left
 
 - title: Programação
-  url: "/programacao/"
+  url: '/programacao/'
   side: left
 
 - title: Palestras
-  url: "/palestras/"
+  url: '/palestras/'
   side: left
 
 - title: Minicursos
-  url: "/minicursos/"
+  url: '/minicursos/'
   side: left
 
 - title: Inscrições
-  url: "/inscricoes/"
+  url: '/inscricoes/'
   side: left
 
 - title: Certificados
-  url: "/certificados/"
+  url: '/certificados/'
   side: left
 
+- title: Hackathon
+  url: '/hackathon/'
+  side: left
+
+- title: SIC
+  url: '/sic/'
+  side: left
 
 - title: Fotos
-  url: "/fotos/"
+  url: '/fotos/'
   side: left
 
 - title: Organização
-  url: "/organizacao/"
+  url: '/organizacao/'
   side: right
-  
-- title: "Contato"
-  url: "/contact/"
+
+- title: 'Contato'
+  url: '/contact/'
   side: right
