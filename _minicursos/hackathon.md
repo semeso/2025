@@ -1,8 +1,8 @@
 ---
-title: 'Maratona CEAVI'
+title: 'Maratona - Hackathon CEAVI'
 id: 'maratona_ceavi'
 tema: 'hackathon'
-icone_esq: 'fa-solid fa-code'
+icone_esq: 'fa-solid fa-medal'
 icone_dir: 'fa-solid fa-trophy'
 horario: 'A definir – 19:00 às 22:00'
 date: 2025-09-16 19:00

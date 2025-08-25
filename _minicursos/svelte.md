@@ -16,6 +16,6 @@ coordenador: 'A definir'
 ministrante:
     nome: 'Felipe Rafael Beiger'
     link: 'https://www.linkedin.com/in/felipe-beiger/'
-    bio: 'Atualmente envolvido no desenvolvimento de uma start-up utilizando Svelte, com experiência prática em projetos reais de desenvolvimento web.'
+    bio: 'Comecei a trabalhar com tecnologia com 18 anos e desde então já atuei em vários projetos diferentes, explorei diferentes tecnologias e desenvolvi aplicações para diferentes contextos. Hoje me descrevo como um Engenheiro de Software full stack, sendo que minha stack  mais familiar é Typescript + React + NodeJS e claro, Python que sempre acaba sendo útil pra um side project ou outro. Recentemente comecei a trabalhar com Svelte, um framework com várias qualidades, mas que não vejo sendo comentado tanto quanto seus semelhantes, então resolvi aproveitar utilizar essa oportunidade para espalhar a palavra.'
     foto: 'felipe_beiger.jpg'
 ---

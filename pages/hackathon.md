@@ -20,7 +20,7 @@ A proposta é **resolver um problema real** ou **explorar um tema** definido pel
 
 ## Quando vai acontecer?
 
-O hackathon será na **noite de quinta-feira, 18/09/2025**, **no mesmo horário dos minicursos** desse dia.
+As defesas dos projetos desenvolvidos no hackathon ocorrerão na **noite de quinta-feira, 18/09/2025**, **no mesmo horário dos minicursos** desse dia.
 
 {% include alert alert="<strong>Atenção:</strong> Participar do hackathon <em>conflita</em> com os minicursos de quinta (18/09). Ao optar pelo hackathon, você não poderá frequentar os minicursos desse mesmo horário, e vice-versa!" %}
 
