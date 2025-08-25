@@ -11,13 +11,13 @@ header:
 
 <style>
 :root{
-  --purple:#7c3aed;        /* roxo SEMESO */
+  --purple:#7c3aed;       
   --purple-700:#5b21b6;
   --purple-900:#2e1065;
-  --orange:#f59e0b;        /* laranja SEMESO */
-  --ink:#0f172a;           /* texto principal */
-  --paper:#ffffff;         /* cartões */
-  --muted:#475569;         /* texto secundário */
+  --orange:#f59e0b;        
+  --ink:#0f172a;           
+  --paper:#ffffff;         
+  --muted:#475569;         
 }
 
 .contact-hero{
