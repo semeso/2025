@@ -128,29 +128,22 @@
 }
 
 /*PALESTRAS -> Temas*/
-.card.tema-abertura         { border-left: 5px solid #AC43ED; }
-.card.tema-sic         { border-left: 5px solid #3B82F6; }
-.card.tema-industriadejogos { border-left: 5px solid #1F0039; }
 .card.tema-dara        { border-left: 5px solid #00B894; }
 .card.tema-engenharia_software { border-left: 5px solid #6366F1; }
-.card.tema-industria        { border-left: 5px solid #270857; }
-.card.tema-valerinas        { border-left: 5px solid #EC4899; }
-.card.tema-encerramento     { border-left: 5px solid #AC43ED; }
+.card.tema-painel     { border-left: 5px solid #AC43ED; }
 
 /*MINICURSOS -> Temas*/
-.card.tema-r             { border-left: 5px solid #7C3AED; } 
-.card.tema-react         { border-left: 5px solid #3B82F6; } 
+.card.tema-comunicacao   { border-left: 5px solid #ff0084; } 
+.card.tema-vue         { border-left: 5px solid #00faaf; } 
 .card.tema-robotica      { border-left: 5px solid #6D28D9; } 
-.card.tema-sql           { border-left: 5px solid #0F172A; } 
-.card.tema-poo           { border-left: 5px solid #AC43ED; } 
-.card.tema-git           { border-left: 5px solid #ff00c8; } 
-.card.tema-aws           { border-left: 5px solid #2b4eff; } 
-.card.tema-nuvem         { border-left: 5px solid #6366F1; } 
-.card.tema-processos     { border-left: 5px solid #1F0039; } 
-.card.tema-csharp        { border-left: 5px solid #8B5CF6; } 
-.card.tema-desenhando    { border-left: 5px solid #EC4899; } 
-.card.tema-multiagente   { border-left: 5px solid #00B894; } 
-.card.tema-otimizacao    { border-left: 5px solid #22D3EE; } 
+.card.tema-svelte          { border-left: 5px solid #de0000; } 
+.card.tema-goolang          { border-left: 5px solid #AC43ED; } 
+.card.tema-hackathon           { border-left: 5px solid #ff00c8; } 
+.card.tema-aws           { border-left: 5px solid #0099ff; } 
+.card.tema-qualidade        { border-left: 5px solid #ffbf00; } 
+.card.tema-nextjs     { border-left: 5px solid #000000; } 
+.card.tema-excel  { border-left: 5px solid #0ba400; } 
+.card.tema-flutter    { border-left: 5px solid #22D3EE; } 
 
 /*Animação leve de pulsar sobre os ícones que decoram as laterais dos cards*/
 @keyframes pulse-icon {
