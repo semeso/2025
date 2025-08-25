@@ -17,5 +17,5 @@ ministrante:
     nome: 'Matheus Oliver Rothenburg'
     link: 'https://www.linkedin.com/in/matheus-oliver-r/'
     bio: 'Em 2024, ministrou capacitação de robótica em parceria entre a UDESC e a Prefeitura de Caçador. Possui experiência prática no ensino de conceitos de robótica utilizando EV3.'
-    foto: 'matheus_rothenburg.jpg'
+    foto: 'matheus_oliver.jpg'
 ---

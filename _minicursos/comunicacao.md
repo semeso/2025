@@ -15,7 +15,7 @@ local: 'A definir'
 coordenador: 'A definir'
 ministrante:
     nome: 'Diogo Ruan Alves'
-    link: '#diogoruan'
+    link: 'https://www.linkedin.com/in/diogo-ruan-alves-79362613b/?originalSubdomain=br'
     bio: 'Estudante de Engenharia de Software na UDESC, com experiência em vendas, marketing e liderança. Atua como Executivo de Vendas na Effecti, onde desenvolve estratégias de comunicação e negócios. Interessado em conectar tecnologia, pessoas e boas práticas de comunicação, traz sua vivência acadêmica e profissional para ajudar estudantes a se expressarem com clareza no mercado de trabalho.'
     foto: 'diogo_alves.jpg'
 ---

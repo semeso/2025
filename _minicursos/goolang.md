@@ -15,7 +15,7 @@ local: 'A definir'
 coordenador: 'A definir'
 ministrante:
     nome: 'Luiz Fernando de Jesus Portela'
-    link: '#luizfernando'
+    link: 'https://www.linkedin.com/in/luiz-portela/'
     bio: 'Desenvolvedor com experiência prática em Golang, tendo atuado por 7 meses em uma startup utilizando a linguagem, além de aplicá-la em seus estudos atuais.'
-    foto: 'luiz_fernando.jpg'
+    foto: 'luiz_portela.jpg'
 ---
