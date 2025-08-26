@@ -10,7 +10,7 @@ descricao: >
     O Code@CEAVI será um hackathon, uma competição de programação voltada para alunos que desejam treinar seus conhecimentos adquiridos na faculdade ou ter a primeira experiência nesse tipo de desafio. 
     Os problemas terão níveis variados para abranger desde iniciantes até estudantes mais avançados. Além de estimular a prática, o evento busca incentivar a participação do CEAVI em competições reconhecidas, que muitas vezes contam com apoio de empresas e oportunidades profissionais.
 
-    {% include alert alert="🏆 <strong>Prêmios!</strong> O Code@CEAVI terá brindes para os participantes e um <strong>prêmio especial para o projeto vencedor</strong>." %}
+    <strong>Prêmios!</strong> O Code@CEAVI terá brindes para os participantes e um <strong>prêmio especial para o projeto vencedor</strong>."
 
 requisitos: >
     <strong>Pré-requisitos</strong>: Não é obrigatório ter experiência prévia em programação, mas recomenda-se a participação a partir da 2ª fase do curso, já que os conceitos abordados variam em dificuldade.
