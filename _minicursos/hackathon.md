@@ -7,7 +7,7 @@ icone_dir: 'fa-solid fa-trophy'
 horario: '18/09 – 19:00 às 22:00'
 date: 2025-09-16 19:00
 descricao: >
-    O Code@CEAVI será um hackathon, uma competição de programação voltada para alunos que desejam treinar seus conhecimentos adquiridos na faculdade ou ter a primeira experiência nesse tipo de desafio. 
+    O Code@CEAVI será uma maratona, uma competição de programação voltada para alunos que desejam treinar seus conhecimentos adquiridos na faculdade ou ter a primeira experiência nesse tipo de desafio. 
     Os problemas terão níveis variados para abranger desde iniciantes até estudantes mais avançados. Além de estimular a prática, o evento busca incentivar a participação do CEAVI em competições reconhecidas, que muitas vezes contam com apoio de empresas e oportunidades profissionais. Além disso, mais um ponto de destaque: <strong>Prêmios!</strong> O Code@CEAVI terá brindes para os participantes e um <strong>prêmio especial para o vencedor</strong>.
 
 requisitos: >
