@@ -16,6 +16,6 @@ coordenador: 'A definir'
 ministrante:
     nome: 'Diogo Ruan Alves'
     link: 'https://www.linkedin.com/in/diogo-ruan-alves-79362613b/?originalSubdomain=br'
-    bio: 'Estudante de Engenharia de Software na UDESC, com experiência em vendas, marketing e liderança. Atua como Executivo de Vendas na Effecti, onde desenvolve estratégias de comunicação e negócios. Interessado em conectar tecnologia, pessoas e boas práticas de comunicação, traz sua vivência acadêmica e profissional para ajudar estudantes a se expressarem com clareza no mercado de trabalho.'
+    bio: 'Estudante de Engenharia de Software na UDESC, também possuo uma sólida trajetória na área comercial, com experiências em empresas de engenharia tradicional e software. Participou de eventos como o Startup Weekend e viveu um intercâmbio de 1 ano e meio fora do Brasil, esses aprendizados reforçaram ainda mais a importância da comunicação em ambientes técnicos, multiculturais e de negócios. No SEMESO 2025, ele traz um minicurso com uma proposta diferente: mostrar que saber se comunicar bem é uma das habilidades mais valiosas para quem quer se destacar no mercado de tecnologia.'
     foto: 'diogo_alves.jpg'
 ---
