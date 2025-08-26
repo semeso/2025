@@ -1,5 +1,5 @@
 ---
-title: 'Hackathon - Code@CEAVI'
+title: 'Maratona - Code@CEAVI'
 id: 'maratona_ceavi'
 tema: 'hackathon'
 icone_esq: 'fa-solid fa-medal'
