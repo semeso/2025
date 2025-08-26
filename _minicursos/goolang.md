@@ -4,7 +4,7 @@ id: 'minicurso_golang_iniciantes'
 tema: 'goolang'
 icone_esq: 'fa-brands fa-golang'
 icone_dir: 'fa-solid fa-terminal'
-horario: 'A definir – 19:00 às 22:00'
+horario: '18/09 – 19:00 às 22:00'
 date: 2025-09-16 19:00
 descricao: >
     Aprenda os fundamentos da linguagem Go, configure seu ambiente de desenvolvimento e desenvolva programas básicos. O minicurso também discute as perspectivas do mercado de trabalho para desenvolvedores Golang.

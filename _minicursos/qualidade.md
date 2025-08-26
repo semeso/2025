@@ -4,7 +4,7 @@ id: 'minicurso_qa_pratica'
 tema: 'qualidade'
 icone_esq: 'fa-solid fa-vial-circle-check'
 icone_dir: 'fa-solid fa-bug'
-horario: 'A definir – 19:00 às 22:00'
+horario: '18/09 – 19:00 às 22:00'
 date: 2025-09-16 19:00
 descricao: >
     Conheça os fundamentos e a mentalidade de QA, aprenda a planejar e escrever casos de teste, realizar testes exploratórios e registrar bugs. O minicurso também apresenta ferramentas essenciais e uma introdução à automação com Cypress.

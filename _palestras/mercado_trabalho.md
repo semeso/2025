@@ -4,7 +4,7 @@ id: 'mercado_trabalho'
 tema: 'mercado'
 icone_esq: 'fa-solid fa-users'
 icone_dir: 'fa-solid fa-handshake'
-horario: 'A definir'
+horario: '17/09 - 21:00 às 22:00'
 date: 2025-10-10 20:45
 descricao: >
     Descubra estratégias, dicas e visões práticas para iniciar sua carreira em Engenharia de Software! 

@@ -4,7 +4,7 @@ id: 'minicurso_vuejs_reatividade'
 tema: 'vue'
 icone_esq: 'fa-brands fa-vuejs'
 icone_dir: 'fa-solid fa-bolt'
-horario: 'A definir – 19:00 às 22:00'
+horario: '18/09 – 19:00 às 22:00'
 date: 2025-09-16 19:00
 descricao: >
     Descubra o poder da reatividade com Vue.js, um dos frameworks mais populares para desenvolvimento front-end. O minicurso aborda os principais conceitos e práticas, incluindo a criação de uma lista de tarefas para fixar o aprendizado.

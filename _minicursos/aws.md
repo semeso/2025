@@ -4,7 +4,7 @@ id: 'minicurso_serverless_aws'
 tema: 'aws'
 icone_esq: 'fa-brands fa-aws'
 icone_dir: 'fa-solid fa-cloud'
-horario: 'A definir – 19:00 às 22:00'
+horario: '18/09 – 19:00 às 22:00'
 date: 2025-09-16 19:00
 descricao: >
     Explore os fundamentos da arquitetura Serverless e aprenda na prática a desenvolver APIs com AWS Lambda e API Gateway, integrando com o ChatGPT. O minicurso abrange desde a construção de endpoints básicos em Node.js até a evolução arquitetural com SNS e persistência em MongoDB Atlas.

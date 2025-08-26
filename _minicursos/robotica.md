@@ -4,7 +4,7 @@ id: 'minicurso_ev3_robotica'
 tema: 'robotica'
 icone_esq: 'fa-solid fa-robot'
 icone_dir: 'fa-solid fa-microchip'
-horario: 'A definir – 19:00 às 22:00'
+horario: '18/09 – 19:00 às 22:00'
 date: 2025-09-16 19:00
 descricao: >
     Conheça o LEGO EV3 e seus principais componentes, sensores e motores. Explore a interface do EV3 Classroom e aprenda conceitos básicos de robótica em um ambiente prático e colaborativo.

@@ -4,7 +4,7 @@ id: 'minicurso_comunicacao_eficaz'
 tema: 'comunicacao'
 icone_esq: 'fa-solid fa-comments'
 icone_dir: 'fa-solid fa-users'
-horario: 'A definir – 19:00 às 22:00'
+horario: '18/09 – 19:00 às 22:00'
 date: 2025-09-16 19:00
 descricao: >
     Aprenda os fundamentos da comunicação eficaz no ambiente acadêmico e profissional. O minicurso inclui técnicas práticas para melhorar a clareza, segurança e impacto na apresentação de ideias, preparando estudantes para a universidade e para o mercado de trabalho.

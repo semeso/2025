@@ -4,7 +4,7 @@ id: 'minicurso_nextjs_react'
 tema: 'nextjs'
 icone_esq: 'fa-brands fa-react'
 icone_dir: 'fa-solid fa-code'
-horario: 'A definir – 19:00 às 22:00'
+horario: '18/09 – 19:00 às 22:00'
 date: 2025-09-15 19:00
 descricao: >
     Explore as melhores práticas de desenvolvimento front-end e construa uma landing page com Next.js, React, TailwindCSS e ShadcnUI.

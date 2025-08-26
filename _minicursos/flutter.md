@@ -4,7 +4,7 @@ id: 'minicurso_flutter_todolist'
 tema: 'flutter'
 icone_esq: 'fa-solid fa-mobile'
 icone_dir: 'fa-solid fa-list-check'
-horario: 'A definir – 19:00 às 22:00'
+horario: '18/09 – 19:00 às 22:00'
 date: 2025-09-16 19:00
 descricao: >
     Aprenda a desenvolver um aplicativo Flutter do tipo To-do List utilizando o padrão MVC, gerenciamento de estado com GetX e persistência local com SharedPreferences.
