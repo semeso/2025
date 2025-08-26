@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: 'Hackathon'
+title: 'Hackathon - Code@CEAVI'
 meta_title: 'SEMESO 2025'
 subheadline: 'SEMESO 2025 - 16 a 18/09 - UDESC Alto Vale'
 teaser: 'XII Seminário de Engenharia de Software'
