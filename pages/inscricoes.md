@@ -27,7 +27,7 @@ Cada aluno regularmente matriculado no curso de Engenharia de Software da UDESC 
 
 ### Períodos de Inscrição
 
--   **Abertura do 1º lote (minicursos):** **26/08**.
+-   **Abertura do 1º lote (minicursos):** **26/08**, **(22:30)**.
 -   **Encerramento do 1º lote (minicursos):** **31/08** (23:59).
 
 {% include alert alert='⚠️ <strong>1º LOTE:</strong> Inscrições de minicursos abertas de <strong>26/08</strong> até <strong>31/08</strong>.' %}
