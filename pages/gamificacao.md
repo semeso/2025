@@ -29,8 +29,6 @@ mas também proporcione uma experiência divertida e recompensadora.
 
 ## Premiações e Regras
 
-### Regulamento da Gamificação do Evento
-
 1. Os participantes que assistirem a **duas (2) palestras** estarão automaticamente concorrendo ao sorteio de **01 (um) Teclado Gamer Mecânico**.
 2. Os participantes que se inscreverem e participarem de **01 (um) minicurso ou hackathon**, juntamente com **01 (um) painel**, estarão concorrendo ao sorteio de **01 (um) Headset Bluetooth**.
 3. Os participantes que completarem o **circuito completo**, composto por:

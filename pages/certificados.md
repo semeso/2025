@@ -9,11 +9,12 @@ header:
 permalink: '/certificados/'
 ---
 
-Serão emitidos certificados eletrônicos para os **participantes** de palestras e minicursos, e também para os **ministrantes** das palestras e minicursos.
+Serão emitidos certificados eletrônicos para os **participantes** de palestras, minicursos, hackathon, e também para os **ministrantes** das palestras e minicursos.
 
 Responsável pela emissão dos certificados: a definir.
 
-**Atenção** para os critérios de emissão de certificados, descritos mais abaixo.
+
+{% include alert alert="<strong>Atenção</strong> para os critérios de emissão de certificados, descritos mais abaixo." %}
 
 ### Acesso aos Certificados
 
@@ -25,7 +26,7 @@ O participante que **NÃO possui vínculo** com a UDESC, deve seguir o passo a p
 
 ### Palestras
 
-Foi emitido um certificado de **participação no SEMESO 2025** para o participante que **registrou presença** nas **palestras** do evento.
+Emitido um certificado de **participação no SEMESO 2025** para o participante que **registrou presença** nas **palestras** do evento.
 
 A presença foi registrada através da assinatura do participante em listas de frequência, que foram circuladas em cada palestra.
 
@@ -35,10 +36,16 @@ O certificado pode ser utilizado para validar atividades complementares.
 
 ### Minicursos
 
-Foi emitido um certificado para cada minicurso em que o participante registrou **100% de frequência**. Os instrutores foram orientados a realizar **chamadas nominais** durante a realização do minicurso para registrar a frequência.
+Emitido um certificado para cada minicurso em que o participante registrou **100% de frequência**. Os instrutores foram orientados a realizar **chamadas nominais** durante a realização do minicurso para registrar a frequência.
 
 O participante inscrito que **não compareceu** ao minicurso, além de não receber certificado, poderá ser impedido de participar de minicursos na próxima edição do SEMESO.
 
 Os certificados dos minicursos podem ser utilizados para validar atividades complementares.
+
+### Hackathon
+
+Emitido um certificado para integrantes das equipes que **apresentarem** suas propostas. 
+
+O certificado pode ser utilizado para validar atividades complementares.
 
 [certificados]: https://certificados.sistemas.udesc.br/Certificados/MeusCertificados/index?opcao=listar

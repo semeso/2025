@@ -18,12 +18,12 @@
   url: '/hackathon/'
   side: left
 
-- title: Gamificação
-  url: '/gamificacao/'
-  side: left
-
 - title: Inscrições
   url: '/inscricoes/'
+  side: left
+  
+- title: Gamificação
+  url: '/gamificacao/'
   side: left
 
 - title: Certificados
