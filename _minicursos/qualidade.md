@@ -10,9 +10,8 @@ descricao: >
     Conheça os fundamentos e a mentalidade de QA, aprenda a planejar e escrever casos de teste, realizar testes exploratórios e registrar bugs. O minicurso também apresenta ferramentas essenciais e uma introdução à automação com Cypress.
 requisitos: >
     <strong>Pré-requisitos</strong>: Nenhum. Para acompanhar a parte prática de automação, é recomendado ter Node.js, VS Code e Cypress instalados.
-vagas: A definir
-local: 'A definir'
-coordenador: 'A definir'
+vagas: '22'
+local: 'Laboratório 1 (bloco Carvalho)'
 ministrante:
     nome: 'Mayara Monteiro de Souza'
     link: 'https://www.linkedin.com/in/maymontsouza/?originalSubdomain=br'

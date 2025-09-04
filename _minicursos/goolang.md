@@ -10,9 +10,8 @@ descricao: >
     Aprenda os fundamentos da linguagem Go, configure seu ambiente de desenvolvimento e desenvolva programas básicos. O minicurso também discute as perspectivas do mercado de trabalho para desenvolvedores Golang.
 requisitos: >
     <strong>Pré-requisitos</strong>: Ter cursado Introdução à Lógica de Programação ou disciplina similar. É recomendado (mas não obrigatório) ter a linguagem já instalada no computador.
-vagas: A definir
-local: 'A definir'
-coordenador: 'A definir'
+vagas: '22'
+local: 'Laboratório 2 (bloco Carvalho)'
 ministrante:
     nome: 'Luiz Fernando de Jesus Portela'
     link: 'https://www.linkedin.com/in/luiz-portela/'

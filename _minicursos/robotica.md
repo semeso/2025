@@ -12,7 +12,6 @@ requisitos: >
     <strong>Pré-requisitos</strong>: Nenhum.
 vagas: 'No máximo 24 pessoas'
 local: 'Laboratório de Robótica (Labot)'
-coordenador: 'A definir'
 ministrante:
     nome: 'Matheus Oliver Rothenburg'
     link: 'https://www.linkedin.com/in/matheus-oliver-r/'

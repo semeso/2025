@@ -10,9 +10,8 @@ descricao: >
     Explore os fundamentos da arquitetura Serverless e aprenda na prática a desenvolver APIs com AWS Lambda e API Gateway, integrando com o ChatGPT. O minicurso abrange desde a construção de endpoints básicos em Node.js até a evolução arquitetural com SNS e persistência em MongoDB Atlas.
 requisitos: >
     <strong>Pré-requisitos</strong>: Conta na AWS, conta no MongoDB Atlas e conta no Postman.
-vagas: 'A definir'
-local: 'A definir'
-coordenador: 'A definir'
+vagas: '20'
+local: 'Laboratório 5 (sala 109 bloco Imbuia)'
 ministrante:
     nome: 'Nathália Acordi da Silva'
     link: 'https://www.linkedin.com/in/nath%C3%A1lia-acordi-0a564b223/'

@@ -10,12 +10,11 @@ descricao: >
     Aprenda a desenvolver um aplicativo Flutter do tipo To-do List utilizando o padrão MVC, gerenciamento de estado com GetX e persistência local com SharedPreferences.
 requisitos: >
     <strong>Pré-requisitos</strong>: Ambiente Flutter configurado (flutter doctor sem erros críticos).
-vagas: A definir
-local: 'A definir'
-coordenador: 'A definir'
+vagas: '15'
+local: 'Laboratório 1 (sala 101 bloco Imbuia)'
 ministrante:
     nome: 'Israel Rodrigues'
     link: 'https://www.linkedin.com/in/israel-rodrigues-8a885a182/'
-    bio: 'Desenvolvedor mobile na Magazord, iniciou a carreira em 2020 durante a faculdade com estágio em Flutter. Atualmente atua com desenvolvimento mobile aplicando Flutter em projetos reais.'
+    bio: 'Desenvolvedor mobile com foco em Flutter e React Native, com experiência em empresas como Magazord, Pixlog e Silicon Village. Atuou no desenvolvimento de soluções como o Bond Vibe (rede social), Susten City (plataforma sustentável), Fika (aplicativo de relacionamentos) e Lux (educação inclusiva), além de participar de projetos em parceria com organizações como Embraer e Unimed.'
     foto: 'israel_rodrigues.jpg'
 ---

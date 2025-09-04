@@ -10,9 +10,8 @@ descricao: >
     Descubra o poder da reatividade com Vue.js, um dos frameworks mais populares para desenvolvimento front-end. O minicurso aborda os principais conceitos e práticas, incluindo a criação de uma lista de tarefas para fixar o aprendizado.
 requisitos: >
     <strong>Pré-requisitos</strong>: Conhecimento básico de alguma linguagem de programação. Desejáveis: HTML e CSS. Fase mínima: a partir do 2º semestre.
-vagas: 'A definir'
-local: 'A definir'
-coordenador: 'A definir'
+vagas: '13'
+local: 'Laboratório 4 (bloco Carvalho)'
 ministrante:
     nome: 'Jean Carlos Rothenburg'
     link: 'https://www.linkedin.com/in/jean-carlos-rothenburg-968a4a20a/'
