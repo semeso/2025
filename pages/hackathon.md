@@ -140,6 +140,11 @@ permalink: '/hackathon/'
 }
 </style>
 
+
+
+<iframe height="560" width="315" src="https://youtube.com/embed/-ACXzu2IdI4?si=KHjjLtF6Exzx9xKG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## Regulamento
 Este regulamento contém informações básicas e regras sobre o funcionamento do **HackSemeso**, doravante denominado “Evento”. 
 
