@@ -2,6 +2,11 @@
 title: '18/09 (quinta)'
 id: 'dia_18'
 itens:
+    - horario: '12:45 às 19:00'
+      titulo: 'Credenciamento'
+      tipo: 'atividade'
+      local: 'Pátio Coberto (bloco Carvalho)'
+
     - horario: '13:00 às 17:00'
       titulo: 'Desenvolvimento Web com Svelte'
       tipo: 'minicurso'
@@ -9,20 +14,19 @@ itens:
       local: 'Consultar o local na página dos Minicursos'
 
     - horario: '19:00 às 20:30'
-      titulo: 'Hackathon e Minicursos'
+      titulo: 'Minicursos e Hackathon'
       tipo: 'atividade'
-      link: '#'
+      link: '/2025/minicursos/'
       local: 'Consultar os locais na página dos Minicursos e do Hackathon'
 
     - horario: '20:30 às 21:00'
       titulo: 'Sorteio da Gamificação e Coffee break'
       tipo: 'intervalo'
-      link: '#'
-      local: 'Pátio Coberto - Bloco Carvalho'
+      local: 'Pátio Coberto (bloco Carvalho)'
 
     - horario: '21:00 às 22:20'
-      titulo: 'Hackathon e Minicursos'
+      titulo: 'Minicursos e Hackathon'
       tipo: 'atividade'
-      link: '#'
+      link: '/2025/minicursos/'
       local: 'Consultar os locais na página dos Minicursos e do Hackathon'
 ---

@@ -90,9 +90,9 @@ $topbar-link-bg-hover:        lighten($ci-6, 10%);
 $topbar-link-bg-active-hover: adjust-hue($ci-6, -10deg);
 
 
-$topbar-dropdown-bg:          $ci-6; // Background Mobile Navigation
-$topbar-dropdown-link-color: #ffffff;
-$topbar-dropdown-link-bg: #ffffff;
+$topbar-dropdown-bg:  	$ci-6; // Background Mobile Navigation
+$topbar-dropdown-link-color: #000;
+$topbar-dropdown-link-bg: lighten($ci-6, 10%);
 
 $topbar-menu-link-color-toggled: #ffffff;
 $topbar-menu-icon-color-toggled: $ci-6;

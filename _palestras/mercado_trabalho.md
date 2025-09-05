@@ -26,6 +26,6 @@ palestrantes:
       link: '#ceavi'
       cargo: 'Cargo a definir'
       foto: 'person.png'
-mediador: 'A definir'
-local: 'A definir'
+mediador: 'Anderson F. Krüger'
+local: 'Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)'
 ---

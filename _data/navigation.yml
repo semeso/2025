@@ -2,21 +2,16 @@
   url: '/'
   side: left
 
-- title: Programação
+- title: 'Programação'
   url: '/programacao/'
   side: left
-
-- title: Palestras
-  url: '/palestras/'
-  side: left
-
-- title: Minicursos
-  url: '/minicursos/'
-  side: left
-
-- title: Hackathon
-  url: '/hackathon/'
-  side: left
+  dropdown:
+  - title: 'Palestras'
+    url: '/palestras/'
+  - title: 'Minicursos'
+    url: '/minicursos/'
+  - title: 'Hackathon'
+    url: '/hackathon/'
 
 - title: Inscrições
   url: '/inscricoes/'
