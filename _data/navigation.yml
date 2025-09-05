@@ -12,6 +12,8 @@
     url: '/minicursos/'
   - title: 'Hackathon'
     url: '/hackathon/'
+  - title: 'Visita Técnica'
+    url: '/visita-tecnica/'
 
 - title: Inscrições
   url: '/inscricoes/'

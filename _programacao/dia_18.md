@@ -13,6 +13,12 @@ itens:
       link: '/2025/minicursos/'
       local: 'Consultar o local na página dos Minicursos'
 
+    - horario: '14:00 às 17:00'
+      titulo: 'Visita Técnica'
+      tipo: 'atividade'
+      link: '/2025/visita-tecnica/'
+      local: 'PontoGov Sistemas'
+
     - horario: '19:00 às 20:30'
       titulo: 'Minicursos e Hackathon'
       tipo: 'atividade'
