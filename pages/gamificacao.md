@@ -25,11 +25,13 @@ mas também proporcione uma experiência divertida e recompensadora.
 
 {% include alert alert="Guarde bem o seu crachá e não esqueça de carimbar ao final de cada atividade!" %}
 
+{% include alert alert="As palestras consideradas na gamificação são <strong>APENAS</strong> as 3 relacionadas na página de palestras do SEMESO." %}
+
 ---
 
 ## Premiações e Regras
 
-1. Os participantes que assistirem a **duas (2) palestras** estarão automaticamente concorrendo ao sorteio de **01 (um) Teclado Gamer Mecânico**.
+1. Os participantes que assistirem a **02 (duas) palestras** estarão automaticamente concorrendo ao sorteio de **01 (um) Teclado Gamer Mecânico**.
 2. Os participantes que se inscreverem e participarem de **01 (um) minicurso ou hackathon**, juntamente com **01 (um) painel**, estarão concorrendo ao sorteio de **01 (um) Headset Bluetooth**.
 3. Os participantes que completarem o **circuito completo**, composto por:
     - 02 (duas) palestras,
@@ -44,7 +46,7 @@ mas também proporcione uma experiência divertida e recompensadora.
 
 ## Por que participar?
 
--   Incentivo à participação ativa em palestras, painéis e minicursos;
--   Reconhecimento do esforço e engajamento;
--   Uma forma mais divertida de acompanhar sua jornada no evento;
--   A chance de sair do SEMESO com **novos aprendizados e recompensas incríveis!**.
+-   Incentivo à participação ativa em palestras, painéis e minicursos.
+-   Reconhecimento do esforço e engajamento.
+-   Uma forma mais divertida de acompanhar sua jornada no evento.
+-   A chance de sair do SEMESO com **novos aprendizados e recompensas incríveis!**
