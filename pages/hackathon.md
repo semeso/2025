@@ -186,9 +186,9 @@ Link para check-in online: _(em breve)_.
 Os pontos que devem ser desenvolvidos estão explicados em uma apresentação disponível neste link: [https://tinyurl.com/hack-semeso-ppt](https://tinyurl.com/hack-semeso-ppt). Sua utilização não é obrigatória, porém, atente-se aos itens lá mencionados.
 
 ### Critérios de avaliação
-- Execução e Qualidade Técnica: 35%
+- Execução e Qualidade Técnica: 25%
 - Problema e Solução: 30%
-- Potencial e Impacto: 20%
+- Potencial e Impacto: 30%
 - Apresentação e Comunicação: 15%
 
 ### Apresentações (_pitches_)
