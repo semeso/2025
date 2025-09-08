@@ -211,7 +211,7 @@ Caso tenha alguma dúvida sobre o evento, faça contato direto com os coordenado
       <img src="{{ '/images/deividy-policarpo.jpg' | relative_url }}" alt="Deividy Amorim Policarpo">
     </div>
     <div class="org-name">Deividy Amorim Policarpo</div>
-    <div class="org-meta">Servidor</div>
+    <div class="org-meta">Analista de Sistemas</div>
     <div class="org-links">
 	  <a class="org-link lattes" href="mailto:deividy.policarpo@udesc.br" target="_blank">E-mail</a>
       <a class="org-link linkedin" href="https://www.linkedin.com/in/dpolicarpo" target="_blank">LinkedIn</a>
@@ -231,3 +231,6 @@ Caso tenha alguma dúvida sobre o evento, faça contato direto com os coordenado
   </div>
   
  </div>
+
+
+
