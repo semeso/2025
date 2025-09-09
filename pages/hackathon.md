@@ -201,6 +201,69 @@ Os pontos que devem ser desenvolvidos estão explicados em uma apresentação di
 - 2º lugar: vale compras R$ 250,00
 - 3º lugar: vale compras R$ 100,00
 
+### Mentores
+Mentores disponíveis para auxiliar as equipes através do canal de mentorias do Whatsapp:
+
+<div class="org-grid">
+<!-- Eduardo Tarouco -->
+  <div class="org-card">
+    <div class="org-avatar">
+      <img src="{{ '/images/eduardo-tarouco.jpg' | relative_url }}" alt="Eduardo Mathias Tarouco">
+    </div>
+    <div class="org-name">Eduardo Mathias Tarouco</div>
+    <div class="org-meta">Empreendedor serial e consultor em inovação</div>
+    <div class="org-links">
+      <a class="org-link linkedin" href="https://linkedin.com/in/eduardo-mathias-tarouco" target="_blank">LinkedIn</a>
+    </div>
+  </div>
+<!-- Felipe Rodrigues -->
+  <div class="org-card">
+    <div class="org-avatar">
+      <img src="{{ '/images/felipe-rodrigues.jpg' | relative_url }}" alt="Felipe Rodrigues">
+    </div>
+    <div class="org-name">Felipe Rodrigues</div>
+    <div class="org-meta">Product Manager</div>
+    <div class="org-links">
+      <a class="org-link linkedin" href="https://linkedin.com/in/feliperodriguesagile" target="_blank">LinkedIn</a>
+    </div>
+  </div>
+  <!-- Rodrigo Santos -->
+  <div class="org-card">
+    <div class="org-avatar">
+      <img src="{{ '/images/rodrigo-santos.jpg' | relative_url }}" alt="Rodrigo Santos">
+    </div>
+    <div class="org-name">Rodrigo Santos</div>
+    <div class="org-meta">Senior Product Designer</div>
+    <div class="org-links">
+      <a class="org-link linkedin" href="https://linkedin.com/in/rodrigomoreiraux" target="_blank">LinkedIn</a>
+    </div>
+  </div>
+
+  <!-- Rodrigo Nogueira -->
+  <div class="org-card">
+    <div class="org-avatar">
+      <img src="{{ '/images/rodrigo-nogueira.jpg' | relative_url }}" alt="Rodrigo Nogueira">
+    </div>
+    <div class="org-name">Rodrigo Nogueira</div>
+    <div class="org-meta">Professor</div>
+    <div class="org-links">
+      <a class="org-link linkedin" href="https://www.linkedin.com/in/rrnogueira" target="_blank">LinkedIn</a>
+    </div>
+  </div>
+
+    <!-- Carlos Barth -->
+  <div class="org-card">
+    <div class="org-avatar">
+      <img src="{{ '/images/carlos_barth.jpg' | relative_url }}" alt="Carlos Alberto Barth">
+    </div>
+    <div class="org-name">Carlos Alberto Barth</div>
+    <div class="org-meta">Professor</div>
+    <div class="org-links">
+      <<a class="org-link lattes" href="http://lattes.cnpq.br/4906389456471521" target="_blank">Lattes</a>
+    </div>
+  </div>
+ </div>
+
 ### Coordenadores
 Caso tenha alguma dúvida sobre o evento, faça contato direto com os coordenadores:
 
@@ -213,7 +276,7 @@ Caso tenha alguma dúvida sobre o evento, faça contato direto com os coordenado
     <div class="org-name">Deividy Amorim Policarpo</div>
     <div class="org-meta">Analista de Sistemas</div>
     <div class="org-links">
-	  <a class="org-link lattes" href="mailto:deividy.policarpo@udesc.br" target="_blank">E-mail</a>
+    <a class="org-link lattes" href="mailto:deividy.policarpo@udesc.br" target="_blank">E-mail</a>
       <a class="org-link linkedin" href="https://www.linkedin.com/in/dpolicarpo" target="_blank">LinkedIn</a>
     </div>
   </div>
@@ -225,12 +288,12 @@ Caso tenha alguma dúvida sobre o evento, faça contato direto com os coordenado
     <div class="org-name">Pedro Zanchett</div>
     <div class="org-meta">Professor</div>
     <div class="org-links">
-	  <a class="org-link lattes" href="mailto:pedro.zanchett@udesc.br" target="_blank">E-mail</a>
+    <a class="org-link lattes" href="mailto:pedro.zanchett@udesc.br" target="_blank">E-mail</a>
       <a class="org-link linkedin" href="https://www.linkedin.com/in/pedro-s-zanchett-20705115" target="_blank">LinkedIn</a>
     </div>
   </div>
-  
  </div>
+
 
 
 

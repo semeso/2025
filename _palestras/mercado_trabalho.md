@@ -5,7 +5,7 @@ tema: 'mercado'
 icone_esq: 'fa-solid fa-users'
 icone_dir: 'fa-solid fa-handshake'
 horario: '17/09 - 19:00 às 20:00'
-date: 2025-10-10 19:00
+date: 2025-09-17 19:00
 descricao: >
     Descubra estratégias, dicas e visões práticas para iniciar sua carreira em Engenharia de Software! 
     Neste painel, teremos especialistas que vão te mostrar como transformar seu conhecimento acadêmico em oportunidades de mercado.

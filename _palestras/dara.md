@@ -5,7 +5,7 @@ tema: 'dara'
 icone_esq: 'fa-solid fa-brain'
 icone_dir: 'fa-solid fa-building-columns'
 horario: '16/09 - 19:00 às 20:00'
-date: 2025-09-17 19:00
+date: 2025-09-16 19:00
 descricao: |
     Nesta palestra, veremos como foi criada a Dara, primeira inteligência artificial para gestão pública, 100% brasileira e tecnologia proprietária da IPM Sistemas. Vamos apresentar o processo de pesquisa, as tecnologias que foram desenvolvidas para o projeto e como é a aplicação da IA na prática.
 
