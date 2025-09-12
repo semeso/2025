@@ -183,7 +183,7 @@ Realizar através deste formulário: [https://forms.cloud.microsoft/r/d4df9fqBjq
 Link para check-in online: _(em breve)_.
 
 ### O que as equipes devem desenvolver
-Os pontos que devem ser desenvolvidos estão explicados em uma apresentação disponível neste link: [https://tinyurl.com/hack-semeso-ppt](https://tinyurl.com/hack-semeso-ppt). Sua utilização não é obrigatória, porém, atente-se aos itens lá mencionados.
+Os pontos que devem ser desenvolvidos estão explicados em uma apresentação disponível neste link: [https://bit.ly/hack-semeso-ppt](https://bit.ly/hack-semeso-ppt). Sua utilização não é obrigatória, porém, atente-se aos itens lá mencionados.
 
 No vídeo a seguir, [Luiz Augusto Mendes](linkedin.com/in/luiz-augusto-mendes-78401212b) (CMO na Éleme Digital) faz um convite especial e compartilha dicas valiosas para quem vai participar evento.
 <p></p>
