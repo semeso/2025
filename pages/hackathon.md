@@ -185,6 +185,10 @@ Link para check-in online: _(em breve)_.
 ### O que as equipes devem desenvolver
 Os pontos que devem ser desenvolvidos estão explicados em uma apresentação disponível neste link: [https://tinyurl.com/hack-semeso-ppt](https://tinyurl.com/hack-semeso-ppt). Sua utilização não é obrigatória, porém, atente-se aos itens lá mencionados.
 
+No vídeo a seguir, [Luiz Augusto Mendes](linkedin.com/in/luiz-augusto-mendes-78401212b) (CMO na Éleme Digital) faz um convite especial e compartilha dicas valiosas para quem vai participar evento.
+<iframe height="560" width="315" src="https://youtube.com/embed/2JoQXHowuOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ### Critérios de avaliação
 - Execução e Qualidade Técnica: 25%
 - Problema e Solução: 30%
@@ -205,6 +209,28 @@ Os pontos que devem ser desenvolvidos estão explicados em uma apresentação di
 Mentores disponíveis para auxiliar as equipes através do canal de mentorias do Whatsapp:
 
 <div class="org-grid">
+<!-- Beatriz Bizatto Ferreira -->
+  <div class="org-card">
+    <div class="org-avatar">
+      <img src="{{ '/images/beatriz-bizatto.jpg' | relative_url }}" alt="Beatriz Bizatto Ferreira">
+    </div>
+    <div class="org-name">Beatriz Bizatto Ferreira</div>
+    <div class="org-meta">QA Analyst</div>
+    <div class="org-links">
+      <a class="org-link linkedin" href="https://linkedin.com/in/beatrizbizatto" target="_blank">LinkedIn</a>
+    </div>
+  </div>
+<!-- Carlos Barth -->
+  <div class="org-card">
+    <div class="org-avatar">
+      <img src="{{ '/images/carlos_barth.jpg' | relative_url }}" alt="Carlos Alberto Barth">
+    </div>
+    <div class="org-name">Carlos Alberto Barth</div>
+    <div class="org-meta">Professor</div>
+    <div class="org-links">
+      <a class="org-link lattes" href="http://lattes.cnpq.br/4906389456471521" target="_blank">Lattes</a>
+    </div>
+  </div>
 <!-- Eduardo Tarouco -->
   <div class="org-card">
     <div class="org-avatar">
@@ -227,7 +253,18 @@ Mentores disponíveis para auxiliar as equipes através do canal de mentorias do
       <a class="org-link linkedin" href="https://linkedin.com/in/feliperodriguesagile" target="_blank">LinkedIn</a>
     </div>
   </div>
-  <!-- Rodrigo Santos -->
+<!-- Rodrigo Nogueira -->
+  <div class="org-card">
+    <div class="org-avatar">
+      <img src="{{ '/images/rodrigo-nogueira.jpg' | relative_url }}" alt="Rodrigo Nogueira">
+    </div>
+    <div class="org-name">Rodrigo Nogueira</div>
+    <div class="org-meta">Professor</div>
+    <div class="org-links">
+      <a class="org-link linkedin" href="https://www.linkedin.com/in/rrnogueira" target="_blank">LinkedIn</a>
+    </div>
+  </div>
+<!-- Rodrigo Santos -->
   <div class="org-card">
     <div class="org-avatar">
       <img src="{{ '/images/rodrigo-santos.jpg' | relative_url }}" alt="Rodrigo Santos">
@@ -239,29 +276,9 @@ Mentores disponíveis para auxiliar as equipes através do canal de mentorias do
     </div>
   </div>
 
-  <!-- Rodrigo Nogueira -->
-  <div class="org-card">
-    <div class="org-avatar">
-      <img src="{{ '/images/rodrigo-nogueira.jpg' | relative_url }}" alt="Rodrigo Nogueira">
-    </div>
-    <div class="org-name">Rodrigo Nogueira</div>
-    <div class="org-meta">Professor</div>
-    <div class="org-links">
-      <a class="org-link linkedin" href="https://www.linkedin.com/in/rrnogueira" target="_blank">LinkedIn</a>
-    </div>
-  </div>
 
-    <!-- Carlos Barth -->
-  <div class="org-card">
-    <div class="org-avatar">
-      <img src="{{ '/images/carlos_barth.jpg' | relative_url }}" alt="Carlos Alberto Barth">
-    </div>
-    <div class="org-name">Carlos Alberto Barth</div>
-    <div class="org-meta">Professor</div>
-    <div class="org-links">
-      <<a class="org-link lattes" href="http://lattes.cnpq.br/4906389456471521" target="_blank">Lattes</a>
-    </div>
-  </div>
+
+  
  </div>
 
 ### Coordenadores
