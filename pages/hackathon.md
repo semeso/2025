@@ -186,6 +186,7 @@ Link para check-in online: _(em breve)_.
 Os pontos que devem ser desenvolvidos estão explicados em uma apresentação disponível neste link: [https://tinyurl.com/hack-semeso-ppt](https://tinyurl.com/hack-semeso-ppt). Sua utilização não é obrigatória, porém, atente-se aos itens lá mencionados.
 
 No vídeo a seguir, [Luiz Augusto Mendes](linkedin.com/in/luiz-augusto-mendes-78401212b) (CMO na Éleme Digital) faz um convite especial e compartilha dicas valiosas para quem vai participar evento.
+<p></p>
 <iframe height="560" width="315" src="https://youtube.com/embed/2JoQXHowuOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
