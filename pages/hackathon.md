@@ -201,6 +201,10 @@ No vídeo a seguir, [Luiz Augusto Mendes](linkedin.com/in/luiz-augusto-mendes-78
 - Atenção: A cada 30 segundos a mais dos 5:30, serão descontados 10 pontos.
 - A banca terá 5 minutos para questionar o(s) apresentador(es) sobre a proposta apresentada.
 
+No vídeo a seguir, o mentor [Rodrigo Santos](https://linkedin.com/in/rodrigomoreiraux) apresenta importantes dicas para as apresentações dos protótipos no evento. 
+<p></p>
+<iframe height="560" width="315" src="https://youtube.com/embed/JxC3g-g7t-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Premiações
 - 1º lugar: vale compras R$ 500,00
 - 2º lugar: vale compras R$ 250,00
