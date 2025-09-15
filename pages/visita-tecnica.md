@@ -29,4 +29,4 @@ Em caso de dúvidas sobre a visita técnica, pode entrar em contato com o acadê
 [PontoGov Sistemas](https://pontogovsistemas.com.br/)
 
 ### Formulário de inscrição
-Faça sua inscrição através deste formulário: _(em breve)_
+Faça sua inscrição através deste formulário: [https://forms.office.com/r/puSNefbN84](https://forms.office.com/r/puSNefbN84)
