@@ -10,8 +10,8 @@ descricao: >
     Aprenda a desenvolver um aplicativo Flutter do tipo To-do List utilizando o padrão MVC, gerenciamento de estado com GetX e persistência local com SharedPreferences.
 requisitos: >
     <strong>Pré-requisitos</strong>: Ambiente Flutter configurado (flutter doctor sem erros críticos).
-vagas: '15'
-local: 'Laboratório 1 (sala 101 bloco Imbuia)'
+vagas: '22'
+local: 'Laboratório 1 (bloco Carvalho)'
 ministrante:
     nome: 'Israel Rodrigues'
     link: 'https://www.linkedin.com/in/israel-rodrigues-8a885a182/'
