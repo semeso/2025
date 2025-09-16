@@ -189,6 +189,11 @@ No vídeo a seguir, [Luiz Augusto Mendes](linkedin.com/in/luiz-augusto-mendes-78
 <p></p>
 <iframe height="560" width="315" src="https://youtube.com/embed/2JoQXHowuOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<p></p>
+No video a seguir, o mentor [Felipe Rodrigues](https://linkedin.com/in/feliperodriguesagile) apresenta dicas de ferramentas úteis para as equipes utilizarem no desenvolvimento de seus projetos.
+
+<p></p>
+<iframe width="560" height="315" src="https://youtube.com/embed/oC9axKiMOTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Critérios de avaliação
 - Execução e Qualidade Técnica: 25%
