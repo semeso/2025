@@ -8,9 +8,9 @@ header:
     image_fullwidth: 'banner-semeso-25.png'
 permalink: '/interno/'
 ---
--   Formulário credenciamento público externo [aqui][credexterno].
+-   Formulário credenciamento público geral [aqui][credexterno].
 
--   Slides abertura e intervalos [aqui][slides].
+-   Materiais e slides [aqui][slides].
 
-[slides]: https://docs.google.com/presentation/d/1ZhpYYfB2jwflDtS3_HDZjGgd4auJ3Zsz/edit?usp=sharing&ouid=101336090545117899796&rtpof=true&sd=true
+[slides]: https://drive.google.com/drive/folders/1notLLgdAmqyKlZ9htIhOI_ArhUVHm8e6?usp=drive_link
 [credexterno]: https://forms.office.com/r/WFb7xTghig
