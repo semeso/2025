@@ -22,10 +22,6 @@ palestrantes:
       link: 'https://www.linkedin.com/in/luis-carlos-vieira-a2672814a/'
       cargo: 'CO-Founder & CTO | Nxfácil'
       foto: 'luis-carlos-vieira.jpg'
-	- nome: 'Anderson F. Krüger'
-      link: 'https://www.linkedin.com/in/fkruger-anderson/'
-      cargo: 'Mediador | Engenharia de Software'
-      foto: 'anderson_kruger.jpg'
 mediador: 'Anderson F. Krüger'
 local: 'Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)'
 ---
