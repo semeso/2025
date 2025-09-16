@@ -11,7 +11,7 @@ descricao: >
 requisitos: >
     <strong>Pré-requisitos</strong>: Nenhum. Indicado para alunos de qualquer fase do curso interessados em desenvolver suas habilidades de comunicação.
 vagas: 'A definir'
-local: 'A definir'
+local: 'Sala 12 (bloco Carvalho)'
 ministrante:
     nome: 'Diogo Ruan Alves'
     link: 'https://www.linkedin.com/in/diogo-ruan-alves-79362613b/?originalSubdomain=br'
