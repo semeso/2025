@@ -10,8 +10,8 @@ descricao: >
     Introdução ao Svelte, um framework moderno para desenvolvimento web. Será construído um aplicativo prático de lista de tarefas (To-Do List) para demonstrar seus conceitos e facilidades.
 requisitos: >
     <strong>Pré-requisitos</strong>: Conhecimentos básicos em HTML, CSS e JavaScript.
-vagas: '15'
-local: 'Laboratório 3 (sala 104 bloco Imbuia)'
+vagas: '20'
+local: 'Laboratório 1 (bloco Carvalho)'
 ministrante:
     nome: 'Felipe Rafael Beiger'
     link: 'https://www.linkedin.com/in/felipe-beiger/'
