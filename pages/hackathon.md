@@ -171,7 +171,7 @@ O HackSemeso iniciará dia 5 de setembro de 2025, a partir do preenchimento do f
 
 - A partir da inscrição as equipes devem desenvolver as propostas **de forma remota**. 
 - As equipes podem utilizar um canal de mentorias criado no Whatsapp: [https://chat.whatsapp.com/D90U2o3qGMT3ZTx2FVL2t3](https://chat.whatsapp.com/D90U2o3qGMT3ZTx2FVL2t3).
-- As **apresentações** ocorrerão em **18/09 as 19h** de forma **presencial** na UDESC Alto Vale (local a definir).
+- As **apresentações** ocorrerão em **18/09 as 19h** de forma **presencial** na UDESC Alto Vale, **sala 202** (bloco Imbuia, 2º andar).
 
 {% include alert alert="<strong>Atenção:</strong> as apresentações do hackathon <em>conflitam</em> com os minicursos de quinta (18/09). Portanto, o(s) apresentador(es) do hackathon não poderá(ão) frequentar os minicursos e vice-versa." %}
 
