@@ -9,4 +9,4 @@ header:
     image_fullwidth: 'banner-semeso-25.png'
 ---
 
-A definir
+As fotos do SEMESO 2025 estão disponiveis neste link: [https://drive.google.com/drive/folders/1UpdOmeZokXJUO443D8emk9R8Rr84U4kz](https://drive.google.com/drive/folders/1UpdOmeZokXJUO443D8emk9R8Rr84U4kz)
