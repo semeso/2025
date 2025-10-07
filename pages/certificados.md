@@ -9,12 +9,15 @@ header:
 permalink: '/certificados/'
 ---
 
-Serão emitidos certificados eletrônicos para os **participantes** de palestras, minicursos, hackathon, e também para os **ministrantes** das palestras e minicursos.
+Foram emitidos certificados eletrônicos para os **participantes** de palestras, minicursos, visita técnica, e também para os **ministrantes** das palestras e minicursos.
 
-Responsável pela emissão dos certificados: a definir.
+### Avaliação do evento 📝
+Antes de gerar seu certificado, avalie o SEMESO 2025.
 
+🔗 Formulário de avaliação:[https://forms.office.com/r/UySYm5bWrX](https://forms.office.com/r/UySYm5bWrX)
 
-{% include alert alert="<strong>Atenção</strong> para os critérios de emissão de certificados, descritos mais abaixo." %}
+{% include alert alert="Sua avaliação é importante para a equipe de organização planejar a próxima edição do SEMESO." %}
+
 
 ### Acesso aos Certificados
 
@@ -32,7 +35,14 @@ A presença foi registrada através da assinatura do participante em listas de f
 
 A **carga horária** do certificado é proporcional às palestras que o participante **registrou presença**.
 
-O certificado pode ser utilizado para validar atividades complementares.
+Este certificado pode ser utilizado para validar atividades complementares.
+
+### Visita Técnica
+
+Emitido um certificado de **visita técnica** para o participante que **registrou presença** na visita técnica. 
+
+Este certificado pode ser utilizado para validar atividades complementares.
+
 
 ### Minicursos
 
@@ -40,12 +50,6 @@ Emitido um certificado para cada minicurso em que o participante registrou **100
 
 O participante inscrito que **não compareceu** ao minicurso, além de não receber certificado, poderá ser impedido de participar de minicursos na próxima edição do SEMESO.
 
-Os certificados dos minicursos podem ser utilizados para validar atividades complementares.
-
-### Hackathon
-
-Emitido um certificado para integrantes das equipes que **apresentarem** suas propostas. 
-
-O certificado pode ser utilizado para validar atividades complementares.
+Estes certificados podem ser utilizados para validar atividades complementares.
 
 [certificados]: https://certificados.sistemas.udesc.br/Certificados/MeusCertificados/index?opcao=listar
